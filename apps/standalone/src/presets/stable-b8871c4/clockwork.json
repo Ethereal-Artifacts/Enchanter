@@ -1,0 +1,115 @@
+{
+  "canvasWidth": 1920,
+  "canvasHeight": 1080,
+  "cellSize": 12,
+  "minCellSize": 1,
+  "maxCellSize": 30,
+  "tickRate": 40,
+  "minTickRate": 2,
+  "maxTickRate": 200,
+  "decay": {
+    "baseDelay": 200,
+    "normalStep": 0.018,
+    "randomRange": 18,
+    "slowdownFactor": 0.05,
+    "minDecayChance": 0.002,
+    "baseDecayChance": 0.28,
+    "edgeBreakChance": 0.22,
+    "voidDropChance": 0.08
+  },
+  "creepingFig": {
+    "baseActivations": 7,
+    "neighborRadius": 3,
+    "branchAge": 8,
+    "directionFollowChance": 0.55,
+    "maxActiveCells": 10000,
+    "expansionBiasFactor": 0.18,
+    "bounceReflectionFactor": 1.0
+  },
+  "burstMechanics": {
+    "pulseChance": 0.1,
+    "burstSize": 28,
+    "burstDecayMultiplier": 1.4
+  },
+  "activeCellDensity": 0.58,
+  "equilibrium": {
+    "maxExpansionScale": 6.5,
+    "maxDecayScale": 4,
+    "minExpansionScale": 0.35,
+    "minDecayScale": 0.2,
+    "expansionResponse": 1.15,
+    "decayResponse": 1.1
+  },
+  "binaryTransitions": {
+    "enabled": true,
+    "threshold": 0.3
+  },
+  "colorSettings": {
+    "baseH": 42,
+    "baseS": 100,
+    "baseB": 100,
+    "scheme": "double-split-complementary"
+  },
+  "RANDOM_START": true,
+  "macros": [
+    {
+      "currentBaseline": 0,
+      "baseline": 0,
+      "targets": [
+        { "path": "colorSettings.baseH", "baseline": 42 },
+        { "path": "colorSettings.baseB", "baseline": 100 }
+      ],
+      "useCurrentBaseline": false,
+      "trigFunc": "cos",
+      "periodMultiplier": 0.0833333,
+      "lfoPeriod": 240,
+      "dampener": 0.85,
+      "enabled": true
+    },
+    {
+      "currentBaseline": 0,
+      "baseline": 0,
+      "targets": [
+        { "path": "tickRate", "baseline": 40 },
+        { "path": "activeCellDensity", "baseline": 0.58 }
+      ],
+      "useCurrentBaseline": false,
+      "trigFunc": "sin",
+      "periodMultiplier": 0.0625,
+      "lfoPeriod": 160,
+      "dampener": 0.6,
+      "enabled": true
+    },
+    {
+      "currentBaseline": 0,
+      "baseline": 0,
+      "targets": [
+        { "path": "creepingFig.baseActivations", "baseline": 7 },
+        { "path": "creepingFig.directionFollowChance", "baseline": 0.55 }
+      ],
+      "useCurrentBaseline": false,
+      "trigFunc": "cos",
+      "periodMultiplier": 0.25,
+      "lfoPeriod": 200,
+      "dampener": 0.5,
+      "enabled": true
+    },
+    {
+      "currentBaseline": 0,
+      "baseline": 0,
+      "targets": [
+        { "path": "decay.baseDelay", "baseline": 200 },
+        { "path": "decay.baseDecayChance", "baseline": 0.28 },
+        { "path": "binaryTransitions.threshold", "baseline": 0.3 }
+      ],
+      "useCurrentBaseline": false,
+      "trigFunc": "sin",
+      "periodMultiplier": 0.125,
+      "lfoPeriod": 180,
+      "dampener": 0.55,
+      "enabled": true
+    }
+  ]
+}
+
+

@@ -1,0 +1,13 @@
+{
+  "name": "enchanter-standalone-workspace",
+  "version": "0.9.0-beta",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "packages/core",
+    "apps/standalone"
+  ],
+  "scripts": {
+    "build": "npm run build --workspace @ethereal/enchanter-standalone"
+  }
+}

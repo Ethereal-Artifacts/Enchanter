@@ -1,0 +1,18 @@
+import { createRequire } from 'node:module';
+import { readFile, writeFile, mkdir, cp } from 'node:fs/promises';
+import { fileURLToPath } from 'node:url';
+import { join } from 'node:path';
+const root = fileURLToPath(new URL('.', import.meta.url));
+const { build } = createRequire(new URL('../../package.json', import.meta.url))('esbuild');
+const result = await build({ entryPoints: [join(root, 'src/enchanter.ts')], bundle: true, format: 'esm', platform: 'browser', target: 'es2020', write: false, minify: true, legalComments: 'inline', logLevel: 'warning' });
+const css = await readFile(join(root, 'runtime.css'), 'utf8');
+const license = (await readFile(join(root, 'LICENSE'), 'utf8')).replaceAll('&', '&amp;').replaceAll('<', '&lt;');
+const copy = JSON.parse(await readFile(join(root, 'src/locales/en.json'), 'utf8'));
+const html = (await readFile(join(root, 'runtime.html'), 'utf8')).replace('</head>', () => '<style>'+css+'</style></head>').replace('{{ENCHANTER_LICENSE_HREF}}','#enchanter-license').replaceAll('{{ENCHANTER_LICENSE_TEXT}}',copy.controls.license).replaceAll('{{ENCHANTER_LICENSE_TITLE}}',copy.legal.title).replaceAll('{{ENCHANTER_LICENSE_SCOPE}}',copy.legal.scope).replaceAll('{{ENCHANTER_LICENSE_BODY}}',license).replace('</body>', () => '<script type="module">'+result.outputFiles[0].text+'</script></body>');
+const output = join(root, 'output');
+const workspaceRoot = join(root, '../..');
+await mkdir(output, { recursive: true });
+await writeFile(join(output, 'enchanter.html'), html);
+await writeFile(join(workspaceRoot, 'enchanter.html'), html);
+for (const name of ['LICENSE', 'THIRD_PARTY_NOTICES.md']) await cp(join(root, name), join(output, name));
+await cp(join(root, '../../fonts'), join(output, 'fonts'), { recursive: true });

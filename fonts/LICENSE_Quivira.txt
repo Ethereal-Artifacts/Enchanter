@@ -1,0 +1,9 @@
+Quivira 4.1
+Copyright (c) Alexander Lange
+https://www.quivira-font.com/
+
+Released into the Public Domain (2019). Free to use, modify, and redistribute.
+
+The file Quivira.otf in this folder is a subset of Quivira 4.1 covering
+the Unicode Alchemical Symbols block (U+1F700–U+1F773) for
+alchemical glyph rendering. The full face is available from the author’s site.

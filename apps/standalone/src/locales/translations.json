@@ -1,0 +1,2882 @@
+{
+  "ga": {
+    "controls": {
+      "title": "An té a chuireann draíocht ar rudaí",
+      "credit": "le Ethereal Artifacts © 2026",
+      "license": "Ceadúnas",
+      "element": "Dúil",
+      "all": "Randamach",
+      "auto": "Uathoibríoch",
+      "earth": "Talamh",
+      "fire": "Tine",
+      "water": "Uisce",
+      "air": "Aer",
+      "spell": "Echo of",
+      "begin": "Caith draíocht",
+      "end": "Críochnaigh",
+      "pause": "Cuir ar Sos",
+      "resume": "Lean ar aghaidh",
+      "restart": "Atosaigh",
+      "snapshot": "Seat",
+      "fullscreen": "Lánscáileán",
+      "exitFullscreen": "Fág an Lánscáileán",
+      "return": "Fill ar ais",
+      "back": "Ar ais chuig an Suíomh",
+      "included": "Bogearraí foinse oscailte san áireamh ó:",
+      "allHint": "Randamach — athraíonn idir na ceithre phailéad cruthaithe",
+      "snapshotHint": "Sábháil fráma PNG amháin ón chanbhás",
+      "whatIsThis": "Cad é seo?"
+    },
+    "information": {
+      "header": "Radhairc áille. Atmaisféar láithreach.",
+      "paragraphs": [
+        "Is léirshamhlaitheoir saor in aisce éadrom é An té a chuireann draíocht ar rudaí ó Ethereal Artifacts, a chruthaigh atmaisféar cibé áit a mbíonn sé de dhíth ort.",
+        "Oscail i mbrabhsálaí é, ceangail le teilgeoir é, nó rith ar Raspberry Pi é. Bain úsáid as sa bhaile, ag cóisir, i stóras, nó áit éigin nach raibh sé ceaptha dul ann.",
+        "Roghnaigh dúil, lig do na radhairc athrú leo féin, nó bain triail as na socruithe."
+      ],
+      "dedicationBefore": "Tiomnaithe dóibh siúd a chuireann ar dhaoine eile ",
+      "dedicationEmphasis": "mothú",
+      "dedicationAfter": ".\nFeicfidh mé ag an Rave sibh."
+    }
+  },
+  "ja": {
+    "controls": {
+      "title": "魔法をかける者",
+      "credit": "Ethereal Artifacts 制作 © 2026",
+      "license": "ライセンス",
+      "element": "エレメント",
+      "all": "ランダム",
+      "auto": "自動",
+      "earth": "地",
+      "fire": "火",
+      "water": "水",
+      "air": "風",
+      "spell": "Echo of",
+      "begin": "魔法をかける",
+      "end": "終了",
+      "pause": "一時停止",
+      "resume": "再開",
+      "restart": "やり直す",
+      "snapshot": "スナップショット",
+      "fullscreen": "全画面表示",
+      "exitFullscreen": "全画面表示を終了",
+      "return": "戻る",
+      "back": "サイトに戻る",
+      "included": "同梱のオープンソースソフトウェア:",
+      "allHint": "ランダム — 4種類の作成済みパレットを切り替えます",
+      "snapshotHint": "キャンバスからPNG画像を1フレーム保存",
+      "whatIsThis": "これは何？"
+    },
+    "information": {
+      "header": "美しいビジュアル。すぐに広がる雰囲気。",
+      "paragraphs": [
+        "魔法をかける者はEthereal Artifactsによる無料で軽量なビジュアライザーです。必要な場所に雰囲気を添えます。",
+        "ブラウザーで開き、プロジェクターにつなぐか、Raspberry Piで動かせます。自宅やパーティー、倉庫など、ちょっと意外な場所でも使えます。",
+        "エレメントを選ぶか、ビジュアルを自動で切り替えるか、設定を試してみてください。"
+      ],
+      "dedicationBefore": "人に ",
+      "dedicationEmphasis": "感じさせる",
+      "dedicationAfter": "すべての人へ捧げます。\nレイヴで会いましょう。"
+    }
+  },
+  "it": {
+    "controls": {
+      "title": "Incantatore",
+      "credit": "di Ethereal Artifacts © 2026",
+      "license": "Licenza",
+      "element": "Elemento",
+      "all": "Casuale",
+      "auto": "Automatico",
+      "earth": "Terra",
+      "fire": "Fuoco",
+      "water": "Acqua",
+      "air": "Aria",
+      "spell": "Echo of",
+      "begin": "Lancia l’incanto",
+      "end": "Termina",
+      "pause": "Pausa",
+      "resume": "Riprendi",
+      "restart": "Ricomincia",
+      "snapshot": "Istantanea",
+      "fullscreen": "Schermo intero",
+      "exitFullscreen": "Esci da schermo intero",
+      "return": "Torna",
+      "back": "Torna al sito",
+      "included": "Software open source incluso:",
+      "allHint": "Casuale — alterna le quattro palette create",
+      "snapshotHint": "Salva un singolo fotogramma PNG dalla tela",
+      "whatIsThis": "Che cos’è?"
+    },
+    "information": {
+      "header": "Belle immagini. Atmosfera immediata.",
+      "paragraphs": [
+        "Incantatore è un visualizzatore gratuito e leggero di Ethereal Artifacts, creato per aggiungere un po’ di atmosfera ovunque serva.",
+        "Aprilo in un browser, collegalo a un proiettore oppure eseguilo su Raspberry Pi. Usalo a casa, a una festa, in un magazzino o in un posto dove forse non doveva arrivare.",
+        "Scegli un elemento, lascia che le immagini cambino da sole o prova le impostazioni."
+      ],
+      "dedicationBefore": "Dedicato a chi fa ",
+      "dedicationEmphasis": "sentire",
+      "dedicationAfter": "gli altri.\nCi vediamo al Rave."
+    }
+  },
+  "fa": {
+    "controls": {
+      "title": "افسونگر",
+      "credit": "از Ethereal Artifacts © 2026",
+      "license": "مجوز",
+      "element": "عنصر",
+      "all": "تصادفی",
+      "auto": "خودکار",
+      "earth": "خاک",
+      "fire": "آتش",
+      "water": "آب",
+      "air": "هوا",
+      "spell": "Echo of",
+      "begin": "افسون کن",
+      "end": "پایان",
+      "pause": "مکث",
+      "resume": "ادامه",
+      "restart": "شروع دوباره",
+      "snapshot": "تصویر فوری",
+      "fullscreen": "تمام‌صفحه",
+      "exitFullscreen": "خروج از تمام‌صفحه",
+      "return": "بازگشت",
+      "back": "بازگشت به سایت",
+      "included": "نرم‌افزار متن‌بازِ گنجانده‌شده:",
+      "allHint": "تصادفی — میان چهار پالت ساخته‌شده جابه‌جا می‌شود",
+      "snapshotHint": "یک فریم PNG از بوم ذخیره کنید",
+      "whatIsThis": "این چیست؟"
+    },
+    "information": {
+      "header": "تصاویر زیبا. حال‌وهوایی فوری.",
+      "paragraphs": [
+        "افسونگر یک نمایشگر بصری رایگان و سبک از Ethereal Artifacts است که برای افزودن کمی حال‌وهوا به هر جایی ساخته شده است.",
+        "آن را در مرورگر باز کنید، به پروژکتور وصل کنید یا روی Raspberry Pi اجرا کنید. در خانه، مهمانی، انبار یا جایی که شاید قرار نبود برود از آن استفاده کنید.",
+        "یک عنصر انتخاب کنید، بگذارید تصاویر خودکار بچرخند یا با تنظیمات بازی کنید."
+      ],
+      "dedicationBefore": "تقدیم به کسانی که باعث می‌شوند دیگران ",
+      "dedicationEmphasis": "احساس کنند",
+      "dedicationAfter": ".\nدر مهمانی ریو می‌بینمتان."
+    }
+  },
+  "am": {
+    "controls": {
+      "title": "ነገሮችን በአስማት የሚሞላ ሰው",
+      "credit": "በ Ethereal Artifacts © 2026",
+      "license": "ፈቃድ",
+      "element": "ንጥረ ነገር",
+      "all": "በዘፈቀደ",
+      "auto": "ራስ-ሰር",
+      "earth": "ምድር",
+      "fire": "እሳት",
+      "water": "ውሃ",
+      "air": "አየር",
+      "spell": "Echo of",
+      "begin": "አስማት አድርግ",
+      "end": "ጨርስ",
+      "pause": "አቁም",
+      "resume": "ቀጥል",
+      "restart": "እንደገና ጀምር",
+      "snapshot": "ቅጽበታዊ ምስል",
+      "fullscreen": "ሙሉ ማያ",
+      "exitFullscreen": "ከሙሉ ማያ ውጣ",
+      "return": "ተመለስ",
+      "back": "ወደ ጣቢያው ተመለስ",
+      "included": "የተካተተ ክፍት-ምንጭ ሶፍትዌር:",
+      "allHint": "በዘፈቀደ — በአራቱ የተዘጋጁ የቀለም ስብስቦች መካከል ይቀያየራል",
+      "snapshotHint": "ከሸራው አንድ PNG ፍሬም ያስቀምጡ",
+      "whatIsThis": "ይህ ምንድን ነው?"
+    },
+    "information": {
+      "header": "ውብ ምስሎች። ወዲያውኑ የሚፈጠር ድባብ።",
+      "paragraphs": [
+        "ነገሮችን በአስማት የሚሞላ ሰው ከ Ethereal Artifacts የተሰራ ነፃና ቀላል የእይታ መሣሪያ ሲሆን፣ በሚያስፈልግዎት ቦታ ድባብ ለመፍጠር ተዘጋጅቷል።",
+        "በአሳሽ ይክፈቱት፣ ከፕሮጀክተር ጋር ያገናኙት ወይም በ Raspberry Pi ላይ ያስኪዱት። በቤት፣ በድግስ፣ በመጋዘን ወይም ምናልባት መሄድ ባልነበረበት ቦታ ይጠቀሙበት።",
+        "ንጥረ ነገር ይምረጡ፣ ምስሎቹ በራሳቸው እንዲቀያየሩ ይተዉ ወይም ቅንብሮቹን ይሞክሩ።"
+      ],
+      "dedicationBefore": "ሌሎችን ",
+      "dedicationEmphasis": "እንዲሰማቸው",
+      "dedicationAfter": " ለሚያደርጉ ሰዎች የተሰጠ።\nበሬቭ ድግስ እንገናኝ።"
+    }
+  },
+  "kn": {
+    "controls": {
+      "title": "ಮೋಡಿ ಮಾಡುವವನು",
+      "credit": "Ethereal Artifacts ಅವರಿಂದ © 2026",
+      "license": "ಪರವಾನಗಿ",
+      "element": "ತತ್ವ",
+      "all": "ಯಾದೃಚ್ಛಿಕ",
+      "auto": "ಸ್ವಯಂಚಾಲಿತ",
+      "earth": "ಭೂಮಿ",
+      "fire": "ಬೆಂಕಿ",
+      "water": "ನೀರು",
+      "air": "ಗಾಳಿ",
+      "spell": "Echo of",
+      "begin": "ಮಾಯೆ ಮಾಡಿ",
+      "end": "ಮುಕ್ತಾಯ",
+      "pause": "ವಿರಾಮ",
+      "resume": "ಮುಂದುವರಿಸಿ",
+      "restart": "ಮರುಪ್ರಾರಂಭಿಸಿ",
+      "snapshot": "ಕ್ಷಣಚಿತ್ರ",
+      "fullscreen": "ಪೂರ್ಣಪರದೆ",
+      "exitFullscreen": "ಪೂರ್ಣಪರದೆಯಿಂದ ನಿರ್ಗಮಿಸಿ",
+      "return": "ಹಿಂತಿರುಗಿ",
+      "back": "ಸೈಟ್‌ಗೆ ಹಿಂತಿರುಗಿ",
+      "included": "ಒಳಗೊಂಡ ಮುಕ್ತ-ಮೂಲ ಸಾಫ್ಟ್‌ವೇರ್:",
+      "allHint": "ಯಾದೃಚ್ಛಿಕ — ರಚಿಸಿದ ನಾಲ್ಕು ಬಣ್ಣಸಂಯೋಜನೆಗಳ ನಡುವೆ ಬದಲಾಯಿಸುತ್ತದೆ",
+      "snapshotHint": "ಕ್ಯಾನ್ವಾಸ್‌ನಿಂದ ಒಂದು PNG ಫ್ರೇಮ್ ಉಳಿಸಿ",
+      "whatIsThis": "ಇದೇನು?"
+    },
+    "information": {
+      "header": "ಸುಂದರ ದೃಶ್ಯಗಳು. ತಕ್ಷಣದ ವಾತಾವರಣ.",
+      "paragraphs": [
+        "ಮೋಡಿ ಮಾಡುವವನು ಎಂಬುದು Ethereal Artifacts ರಚಿಸಿದ ಉಚಿತ, ಹಗುರವಾದ ದೃಶ್ಯಾವಳಿ ಸಾಧನ; ಬೇಕಾದಲ್ಲೆಲ್ಲ ಸ್ವಲ್ಪ ವಾತಾವರಣ ಮೂಡಿಸಲು ಇದನ್ನು ಮಾಡಲಾಗಿದೆ.",
+        "ಬ್ರೌಸರ್‌ನಲ್ಲಿ ತೆರೆಯಿರಿ, ಪ್ರೊಜೆಕ್ಟರ್‌ಗೆ ಜೋಡಿಸಿ ಅಥವಾ Raspberry Pi ನಲ್ಲಿ ಚಲಾಯಿಸಿ. ಮನೆಯಲ್ಲಿ, ಪಾರ್ಟಿಯಲ್ಲಿ, ಗೋದಾಮಿನಲ್ಲಿ ಅಥವಾ ಇದಕ್ಕೆ ಹೋಗಲು ಉದ್ದೇಶಿಸಿರದ ಸ್ಥಳದಲ್ಲೂ ಬಳಸಿ.",
+        "ಒಂದು ತತ್ವವನ್ನು ಆರಿಸಿ, ದೃಶ್ಯಗಳು ತಾವಾಗಿಯೇ ಬದಲಾಗಲಿ ಅಥವಾ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಪ್ರಯತ್ನಿಸಿ."
+      ],
+      "dedicationBefore": "ಇತರರಿಗೆ ",
+      "dedicationEmphasis": "ಅನಿಸುವಂತೆ",
+      "dedicationAfter": " ಮಾಡುವವರಿಗೆ ಅರ್ಪಣೆ.\nರೇವ್ ಪಾರ್ಟಿಯಲ್ಲಿ ಭೇಟಿಯಾಗೋಣ."
+    }
+  },
+  "om": {
+    "controls": {
+      "title": "Nama falfala godhu",
+      "credit": "kan Ethereal Artifacts © 2026",
+      "license": "Hayyama",
+      "element": "Miseensa",
+      "all": "Tasuma",
+      "auto": "Ofumaan",
+      "earth": "Lafa",
+      "fire": "Abidda",
+      "water": "Bishaan",
+      "air": "Qilleensa",
+      "spell": "Echo of",
+      "begin": "Falfala raawwadhu",
+      "end": "Xumuri",
+      "pause": "Dhaabi",
+      "resume": "Itti fufi",
+      "restart": "Irra deebi’i",
+      "snapshot": "Suuraa yeroodhaa",
+      "fullscreen": "Iskiriinii guutuu",
+      "exitFullscreen": "Iskiriinii guutuu keessaa ba’i",
+      "return": "Deebi’i",
+      "back": "Gara marsariitichaatti deebi’i",
+      "included": "Sooftiweerii madda banaa dabalame:",
+      "allHint": "Tasuma — paaletota qophaa’an afur gidduutti jijjiira",
+      "snapshotHint": "Fureemii PNG tokko kan kaanvasii irraa olkaa’i",
+      "whatIsThis": "Kun maali?"
+    },
+    "information": {
+      "header": "Mul’ata bareedaa. Haala battalaa.",
+      "paragraphs": [
+        "Nama falfala godhu meeshaa mul’ataa bilisaa fi salphaa kan Ethereal Artifacts ti; bakka barbaaddanitti haala gaarii uumuuf hojjetame.",
+        "Biraawzari keessatti bani, pirojektara waliin walqabsiisi, ykn Raspberry Pi irratti hojii irra oolchi. Mana keessatti, ayyaana irratti, kuusaa keessatti, ykn bakka deemuu hin malle keessatti itti fayyadami.",
+        "Miseensa filadhu, mul’atawwan ofumaan akka jijjiiraman godhi, ykn qindaa’inoota qoradhu."
+      ],
+      "dedicationBefore": "Namoota warra kaan ",
+      "dedicationEmphasis": "akka itti dhaga’amu",
+      "dedicationAfter": " godhanitti kenname.\nRave irratti wal argina."
+    }
+  },
+  "bn": {
+    "controls": {
+      "title": "মোহিতকারী",
+      "credit": "Ethereal Artifacts-এর পক্ষ থেকে © 2026",
+      "license": "লাইসেন্স",
+      "element": "উপাদান",
+      "all": "এলোমেলো",
+      "auto": "স্বয়ংক্রিয়",
+      "earth": "পৃথিবী",
+      "fire": "আগুন",
+      "water": "জল",
+      "air": "বায়ু",
+      "spell": "Echo of",
+      "begin": "মন্ত্র প্রয়োগ করুন",
+      "end": "শেষ",
+      "pause": "বিরতি",
+      "resume": "চালিয়ে যান",
+      "restart": "আবার শুরু",
+      "snapshot": "স্ন্যাপশট",
+      "fullscreen": "পূর্ণপর্দা",
+      "exitFullscreen": "পূর্ণপর্দা বন্ধ করুন",
+      "return": "ফিরুন",
+      "back": "সাইটে ফিরে যান",
+      "included": "অন্তর্ভুক্ত ওপেন-সোর্স সফটওয়্যার:",
+      "allHint": "এলোমেলো — তৈরি করা চারটি প্যালেটের মধ্যে বদলায়",
+      "snapshotHint": "ক্যানভাস থেকে একটি PNG ফ্রেম সংরক্ষণ করুন",
+      "whatIsThis": "এটা কী?"
+    },
+    "information": {
+      "header": "সুন্দর দৃশ্য। মুহূর্তেই আবহ।",
+      "paragraphs": [
+        "মোহিতকারী হলো Ethereal Artifacts-এর তৈরি বিনামূল্যের, হালকা ভিজ্যুয়ালাইজার; যেখানে দরকার সেখানে একটু আবহ তৈরি করতে এটি বানানো হয়েছে।",
+        "ব্রাউজারে খুলুন, প্রজেক্টরে সংযোগ দিন, অথবা Raspberry Pi-তে চালান। বাড়িতে, পার্টিতে, গুদামে, কিংবা এমন কোথাও ব্যবহার করুন যেখানে হয়তো এর যাওয়ার কথা ছিল না।",
+        "একটি উপাদান বেছে নিন, দৃশ্যগুলোকে নিজে নিজে বদলাতে দিন, অথবা সেটিংস নিয়ে পরীক্ষা করুন।"
+      ],
+      "dedicationBefore": "যারা অন্যদের ",
+      "dedicationEmphasis": "অনুভব করান",
+      "dedicationAfter": ", তাঁদের উৎসর্গ।\nরেভ পার্টিতে দেখা হবে।"
+    }
+  },
+  "zh-Hans": {
+    "controls": {
+      "title": "附魔者",
+      "credit": "Ethereal Artifacts 制作 © 2026",
+      "license": "许可证",
+      "element": "元素",
+      "all": "随机",
+      "auto": "自动",
+      "earth": "土",
+      "fire": "火",
+      "water": "水",
+      "air": "风",
+      "spell": "Echo of",
+      "begin": "施展魔法",
+      "end": "结束",
+      "pause": "暂停",
+      "resume": "继续",
+      "restart": "重新开始",
+      "snapshot": "截图",
+      "fullscreen": "全屏",
+      "exitFullscreen": "退出全屏",
+      "return": "返回",
+      "back": "返回网站",
+      "included": "包含的开源软件：",
+      "allHint": "随机 — 在四种创作调色板间切换",
+      "snapshotHint": "从画布保存一帧 PNG",
+      "whatIsThis": "这是什么？"
+    },
+    "information": {
+      "header": "绚丽视觉，即刻氛围。",
+      "paragraphs": [
+        "附魔者 是 Ethereal Artifacts 推出的免费轻量视觉效果器，为你需要的任何地方增添氛围。",
+        "在浏览器中打开，连接投影仪，或在 Raspberry Pi 上运行。可在家中、派对、仓库，或某个它大概不该出现的地方使用。",
+        "选择一种元素，让视觉场景自动轮换，或亲自调整设置。"
+      ],
+      "dedicationBefore": "献给那些让他人 ",
+      "dedicationEmphasis": "感受到",
+      "dedicationAfter": "温暖的人。\n锐舞派对见。"
+    }
+  },
+  "cs": {
+    "controls": {
+      "title": "Zaklínač",
+      "credit": "od Ethereal Artifacts © 2026",
+      "license": "Licence",
+      "element": "Živel",
+      "all": "Náhodně",
+      "auto": "Automaticky",
+      "earth": "Země",
+      "fire": "Oheň",
+      "water": "Voda",
+      "air": "Vzduch",
+      "spell": "Echo of",
+      "begin": "Seslat kouzlo",
+      "end": "Ukončit",
+      "pause": "Pozastavit",
+      "resume": "Pokračovat",
+      "restart": "Spustit znovu",
+      "snapshot": "Snímek",
+      "fullscreen": "Celá obrazovka",
+      "exitFullscreen": "Ukončit celou obrazovku",
+      "return": "Zpět",
+      "back": "Zpět na web",
+      "included": "Obsažený software s otevřeným zdrojovým kódem:",
+      "allHint": "Náhodně — střídá čtyři vytvořené palety",
+      "snapshotHint": "Uložit jeden snímek PNG z plátna",
+      "whatIsThis": "Co to je?"
+    },
+    "information": {
+      "header": "Krásné obrazy. Okamžitá atmosféra.",
+      "paragraphs": [
+        "Zaklínač je bezplatný nenáročný vizualizér od Ethereal Artifacts, který přináší trochu atmosféry kamkoli ji potřebujete.",
+        "Otevřete ho v prohlížeči, připojte k projektoru nebo spusťte na Raspberry Pi. Použijte ho doma, na večírku, ve skladu nebo někde, kam se možná vůbec neměl dostat.",
+        "Vyberte živel, nechte obrazy samy cyklicky přecházet nebo si pohrajte s nastavením."
+      ],
+      "dedicationBefore": "Věnováno těm, kteří v ostatních probouzejí ",
+      "dedicationEmphasis": "pocit",
+      "dedicationAfter": ".\nUvidíme se na Rave."
+    }
+  },
+  "et": {
+    "controls": {
+      "title": "Loitsija",
+      "credit": "Ethereal Artifactsilt © 2026",
+      "license": "Litsents",
+      "element": "Element",
+      "all": "Juhuslik",
+      "auto": "Automaatne",
+      "earth": "Maa",
+      "fire": "Tuli",
+      "water": "Vesi",
+      "air": "Õhk",
+      "spell": "Echo of",
+      "begin": "Lausu loits",
+      "end": "Lõpeta",
+      "pause": "Peata",
+      "resume": "Jätka",
+      "restart": "Alusta uuesti",
+      "snapshot": "Kuvatõmmis",
+      "fullscreen": "Täisekraan",
+      "exitFullscreen": "Välju täisekraanilt",
+      "return": "Tagasi",
+      "back": "Tagasi saidile",
+      "included": "Kaasatud avatud lähtekoodiga tarkvara:",
+      "allHint": "Juhuslik — vahetab nelja loodud paleti vahel",
+      "snapshotHint": "Salvesta lõuendilt üks PNG-kaader",
+      "whatIsThis": "Mis see on?"
+    },
+    "information": {
+      "header": "Kaunid visuaalid. Hetkega loodud meeleolu.",
+      "paragraphs": [
+        "Loitsija on Ethereal Artifactsi tasuta ja kerge visualiseerija, mis lisab meeleolu kõikjal, kus seda vajad.",
+        "Ava see brauseris, ühenda projektoriga või käivita Raspberry Pi peal. Kasuta kodus, peol, laos või kohas, kuhu see ilmselt minna ei pidanud.",
+        "Vali element, lase visuaalidel ise vahelduda või katseta seadetega."
+      ],
+      "dedicationBefore": "Pühendatud neile, kes panevad teisi ",
+      "dedicationEmphasis": "tundma",
+      "dedicationAfter": ".\nNäeme reivil."
+    }
+  },
+  "fi": {
+    "controls": {
+      "title": "Lumooja",
+      "credit": "Ethereal Artifactsilta © 2026",
+      "license": "Lisenssi",
+      "element": "Elementti",
+      "all": "Satunnainen",
+      "auto": "Automaattinen",
+      "earth": "Maa",
+      "fire": "Tuli",
+      "water": "Vesi",
+      "air": "Ilma",
+      "spell": "Echo of",
+      "begin": "Langeta lumous",
+      "end": "Lopeta",
+      "pause": "Keskeytä",
+      "resume": "Jatka",
+      "restart": "Aloita uudelleen",
+      "snapshot": "Tilannekuva",
+      "fullscreen": "Koko näyttö",
+      "exitFullscreen": "Poistu koko näytöstä",
+      "return": "Palaa",
+      "back": "Takaisin sivustolle",
+      "included": "Mukana avoimen lähdekoodin ohjelmisto:",
+      "allHint": "Satunnainen — vaihtaa neljän luodun paletin välillä",
+      "snapshotHint": "Tallenna kankaalta yksi PNG-ruutu",
+      "whatIsThis": "Mikä tämä on?"
+    },
+    "information": {
+      "header": "Kaunista visuaalisuutta. Tunnelmaa heti.",
+      "paragraphs": [
+        "Lumooja on Ethereal Artifactsin ilmainen ja kevyt visualisoija, joka tuo tunnelmaa sinne, missä sitä tarvitset.",
+        "Avaa selaimessa, yhdistä projektoriin tai suorita Raspberry Pi:llä. Käytä kotona, juhlissa, varastossa tai paikassa, jonne sen ei ehkä pitänyt päätyä.",
+        "Valitse elementti, anna visuaalien vaihtua itsestään tai kokeile asetuksia."
+      ],
+      "dedicationBefore": "Omistettu niille, jotka saavat muut ",
+      "dedicationEmphasis": "tuntemaan",
+      "dedicationAfter": ".\nNähdään Ravessa."
+    }
+  },
+  "pa": {
+    "controls": {
+      "title": "ਮੋਹਿਤ ਕਰਨ ਵਾਲਾ",
+      "credit": "Ethereal Artifacts ਵੱਲੋਂ © 2026",
+      "license": "ਲਾਇਸੰਸ",
+      "element": "ਤੱਤ",
+      "all": "ਬੇਤਰਤੀਬ",
+      "auto": "ਆਟੋਮੈਟਿਕ",
+      "earth": "ਧਰਤੀ",
+      "fire": "ਅੱਗ",
+      "water": "ਪਾਣੀ",
+      "air": "ਹਵਾ",
+      "spell": "Echo of",
+      "begin": "ਜਾਦੂ ਕਰੋ",
+      "end": "ਖਤਮ",
+      "pause": "ਰੋਕੋ",
+      "resume": "ਜਾਰੀ ਰੱਖੋ",
+      "restart": "ਮੁੜ ਸ਼ੁਰੂ ਕਰੋ",
+      "snapshot": "ਤਸਵੀਰ",
+      "fullscreen": "ਪੂਰੀ ਸਕ੍ਰੀਨ",
+      "exitFullscreen": "ਪੂਰੀ ਸਕ੍ਰੀਨ ਤੋਂ ਬਾਹਰ ਆਓ",
+      "return": "ਵਾਪਸ",
+      "back": "ਸਾਈਟ ’ਤੇ ਵਾਪਸ ਜਾਓ",
+      "included": "ਸ਼ਾਮਲ ਓਪਨ-ਸੋਰਸ ਸੌਫਟਵੇਅਰ:",
+      "allHint": "ਬੇਤਰਤੀਬ — ਚਾਰ ਬਣਾਏ ਪੈਲੇਟਾਂ ਵਿਚਕਾਰ ਬਦਲਦਾ ਹੈ",
+      "snapshotHint": "ਕੈਨਵਸ ਤੋਂ ਇੱਕ PNG ਫਰੇਮ ਸੰਭਾਲੋ",
+      "whatIsThis": "ਇਹ ਕੀ ਹੈ?"
+    },
+    "information": {
+      "header": "ਸੁੰਦਰ ਦ੍ਰਿਸ਼। ਤੁਰੰਤ ਮਾਹੌਲ।",
+      "paragraphs": [
+        "ਮੋਹਿਤ ਕਰਨ ਵਾਲਾ, Ethereal Artifacts ਵੱਲੋਂ ਬਣਾਇਆ ਮੁਫ਼ਤ ਅਤੇ ਹਲਕਾ ਵਿਜ਼ੁਅਲਾਈਜ਼ਰ ਹੈ, ਜੋ ਜਿੱਥੇ ਲੋੜ ਹੋਵੇ ਉੱਥੇ ਮਾਹੌਲ ਜੋੜਦਾ ਹੈ।",
+        "ਇਸਨੂੰ ਬ੍ਰਾਊਜ਼ਰ ਵਿੱਚ ਖੋਲ੍ਹੋ, ਪ੍ਰੋਜੈਕਟਰ ਨਾਲ ਜੋੜੋ ਜਾਂ Raspberry Pi ’ਤੇ ਚਲਾਓ। ਘਰ, ਪਾਰਟੀ, ਗੋਦਾਮ ਜਾਂ ਅਜਿਹੀ ਥਾਂ ’ਤੇ ਵਰਤੋ ਜਿੱਥੇ ਸ਼ਾਇਦ ਇਸਨੂੰ ਨਹੀਂ ਜਾਣਾ ਚਾਹੀਦਾ ਸੀ।",
+        "ਕੋਈ ਤੱਤ ਚੁਣੋ, ਦ੍ਰਿਸ਼ਾਂ ਨੂੰ ਆਪਣੇ ਆਪ ਬਦਲਣ ਦਿਓ ਜਾਂ ਸੈਟਿੰਗਾਂ ਨਾਲ ਖੇਡੋ।"
+      ],
+      "dedicationBefore": "ਉਨ੍ਹਾਂ ਲਈ ਸਮਰਪਿਤ ਜੋ ਹੋਰਨਾਂ ਨੂੰ ",
+      "dedicationEmphasis": "ਮਹਿਸੂਸ ਕਰਾਉਂਦੇ",
+      "dedicationAfter": " ਹਨ।\nਰੇਵ ਪਾਰਟੀ ’ਤੇ ਮਿਲਾਂਗੇ।"
+    }
+  },
+  "uz": {
+    "controls": {
+      "title": "Sehr soluvchi",
+      "credit": "Ethereal Artifacts tomonidan © 2026",
+      "license": "Litsenziya",
+      "element": "Element",
+      "all": "Tasodifiy",
+      "auto": "Avtomatik",
+      "earth": "Yer",
+      "fire": "Olov",
+      "water": "Suv",
+      "air": "Havo",
+      "spell": "Echo of",
+      "begin": "Sehr qil",
+      "end": "Tugatish",
+      "pause": "To‘xtatish",
+      "resume": "Davom etish",
+      "restart": "Qayta boshlash",
+      "snapshot": "Surat",
+      "fullscreen": "To‘liq ekran",
+      "exitFullscreen": "To‘liq ekrandan chiqish",
+      "return": "Qaytish",
+      "back": "Saytga qaytish",
+      "included": "Tarkibdagi ochiq kodli dastur:",
+      "allHint": "Tasodifiy — yaratilgan to‘rtta palitra o‘rtasida almashadi",
+      "snapshotHint": "Kanvadan bitta PNG kadrni saqlash",
+      "whatIsThis": "Bu nima?"
+    },
+    "information": {
+      "header": "Go‘zal tasvirlar. Darhol muhit.",
+      "paragraphs": [
+        "Sehr soluvchi — Ethereal Artifacts tomonidan yaratilgan bepul, yengil vizualizator; kerakli joyingizga biroz muhit qo‘shish uchun mo‘ljallangan.",
+        "Uni brauzerda oching, proyektorga ulang yoki Raspberry Pi’da ishga tushiring. Uyda, bazmda, omborda yoki balki borishi kerak bo‘lmagan joyda foydalaning.",
+        "Elementni tanlang, tasvirlar o‘z-o‘zidan almashsin yoki sozlamalarni sinab ko‘ring."
+      ],
+      "dedicationBefore": "Boshqalarga ",
+      "dedicationEmphasis": "his qildiradigan",
+      "dedicationAfter": " insonlarga bag‘ishlanadi.\nRave’da ko‘rishamiz."
+    }
+  },
+  "zu": {
+    "controls": {
+      "title": "Ofaka umlingo",
+      "credit": "yi-Ethereal Artifacts © 2026",
+      "license": "Ilayisensi",
+      "element": "Isici",
+      "all": "Ngokungahleliwe",
+      "auto": "Okuzenzakalelayo",
+      "earth": "Umhlaba",
+      "fire": "Umlilo",
+      "water": "Amanzi",
+      "air": "Umoya",
+      "spell": "Echo of",
+      "begin": "Phonsa Umlingo",
+      "end": "Phela",
+      "pause": "Misa kancane",
+      "resume": "Qhubeka",
+      "restart": "Qala kabusha",
+      "snapshot": "Isithombe-skrini",
+      "fullscreen": "Isikrini esigcwele",
+      "exitFullscreen": "Phuma esikrinini esigcwele",
+      "return": "Buyela",
+      "back": "Buyela kusayithi",
+      "included": "Isofthiwe yomthombo ovulekile efakiwe:",
+      "allHint": "Ngokungahleliwe — ishintsha phakathi kwamaphalethi amane akhiwe",
+      "snapshotHint": "Londoloza uhlaka olulodwa lwe-PNG kukhanvasi",
+      "whatIsThis": "Kuyini lokhu?"
+    },
+    "information": {
+      "header": "Izithombe ezinhle. Umoya osheshayo.",
+      "paragraphs": [
+        "I-Ofaka umlingo iyisibonisi esibonakalayo samahhala nesilula esenziwe yi-Ethereal Artifacts, ukuze ilethe umoya noma kuphi lapho uwudinga khona.",
+        "Yivule kusiphequluli, uyixhume kuphrojektha, noma uyiqalise ku-Raspberry Pi. Yisebenzise ekhaya, emcimbini, endaweni yokugcina impahla, noma endaweni okungenzeka yayingahloselwe yona.",
+        "Khetha isici, vumela izithombe zishintshane ngokwazo, noma uzame izilungiselelo."
+      ],
+      "dedicationBefore": "Kunikezelwe kulabo abenza abanye ",
+      "dedicationEmphasis": "bazizwe",
+      "dedicationAfter": ".\nSizobonana eRave."
+    }
+  },
+  "km": {
+    "controls": {
+      "title": "អ្នកដាក់មន្ត",
+      "credit": "ដោយ Ethereal Artifacts © 2026",
+      "license": "អាជ្ញាបណ្ណ",
+      "element": "ធាតុ",
+      "all": "ចៃដន្យ",
+      "auto": "ស្វ័យប្រវត្តិ",
+      "earth": "ដី",
+      "fire": "ភ្លើង",
+      "water": "ទឹក",
+      "air": "ខ្យល់",
+      "spell": "Echo of",
+      "begin": "សូត្រមន្ត",
+      "end": "បញ្ចប់",
+      "pause": "ផ្អាក",
+      "resume": "បន្ត",
+      "restart": "ចាប់ផ្ដើមឡើងវិញ",
+      "snapshot": "រូបថត",
+      "fullscreen": "ពេញអេក្រង់",
+      "exitFullscreen": "ចេញពីពេញអេក្រង់",
+      "return": "ត្រឡប់",
+      "back": "ត្រឡប់ទៅគេហទំព័រ",
+      "included": "កម្មវិធីប្រភពបើកចំហដែលបានរួមបញ្ចូល៖",
+      "allHint": "ចៃដន្យ — ប្ដូររវាងក្ដារពណ៌ដែលបានរៀបចំទាំងបួន",
+      "snapshotHint": "រក្សាទុកស៊ុម PNG មួយពីផ្ទាំងគំនូរ",
+      "whatIsThis": "នេះជាអ្វី?"
+    },
+    "information": {
+      "header": "រូបភាពស្រស់ស្អាត។ បរិយាកាសភ្លាមៗ។",
+      "paragraphs": [
+        "អ្នកដាក់មន្ត ជាឧបករណ៍បង្ហាញរូបភាពឥតគិតថ្លៃ និងស្រាលពី Ethereal Artifacts ដែលបង្កើតឡើងដើម្បីបន្ថែមបរិយាកាសបន្តិចនៅគ្រប់ទីកន្លែងដែលអ្នកត្រូវការ។",
+        "បើកវាក្នុងកម្មវិធីរុករក ភ្ជាប់ទៅម៉ាស៊ីនបញ្ចាំង ឬដំណើរការលើ Raspberry Pi។ ប្រើនៅផ្ទះ ក្នុងពិធីជប់លៀង ឃ្លាំង ឬកន្លែងដែលវាប្រហែលមិនគួរទៅដល់។",
+        "ជ្រើសរើសធាតុមួយ ទុកឱ្យរូបភាពប្ដូរដោយស្វ័យប្រវត្តិ ឬសាកល្បងការកំណត់។"
+      ],
+      "dedicationBefore": "ឧទ្ទិសដល់អ្នកដែលធ្វើឱ្យអ្នកដទៃ ",
+      "dedicationEmphasis": "មានអារម្មណ៍",
+      "dedicationAfter": "។\nជួបគ្នានៅពិធីរេវ។"
+    }
+  },
+  "ko": {
+    "controls": {
+      "title": "마법을 거는 이",
+      "credit": "Ethereal Artifacts 제작 © 2026",
+      "license": "라이선스",
+      "element": "요소",
+      "all": "무작위",
+      "auto": "자동",
+      "earth": "땅",
+      "fire": "불",
+      "water": "물",
+      "air": "공기",
+      "spell": "Echo of",
+      "begin": "마법 걸기",
+      "end": "종료",
+      "pause": "일시 정지",
+      "resume": "계속",
+      "restart": "다시 시작",
+      "snapshot": "스냅샷",
+      "fullscreen": "전체 화면",
+      "exitFullscreen": "전체 화면 종료",
+      "return": "돌아가기",
+      "back": "사이트로 돌아가기",
+      "included": "포함된 오픈 소스 소프트웨어:",
+      "allHint": "무작위 — 직접 만든 네 가지 팔레트 사이를 전환합니다",
+      "snapshotHint": "캔버스에서 PNG 프레임 하나를 저장합니다",
+      "whatIsThis": "이게 뭐죠?"
+    },
+    "information": {
+      "header": "아름다운 비주얼. 즉각적인 분위기.",
+      "paragraphs": [
+        "마법을 거는 이는 Ethereal Artifacts가 만든 무료 경량 비주얼라이저로, 필요한 곳 어디에나 분위기를 더해 줍니다.",
+        "브라우저에서 열거나 프로젝터에 연결하거나 Raspberry Pi에서 실행하세요. 집, 파티, 창고 또는 어쩌면 가지 말았어야 할 곳에서도 사용할 수 있습니다.",
+        "요소를 선택하고 비주얼이 자동으로 순환하게 두거나 설정을 조정해 보세요."
+      ],
+      "dedicationBefore": "다른 이들이 ",
+      "dedicationEmphasis": "느끼게",
+      "dedicationAfter": " 해 주는 모든 이에게 바칩니다.\n레이브에서 만나요."
+    }
+  },
+  "ht": {
+    "controls": {
+      "title": "Moun k ap anchante",
+      "credit": "pa Ethereal Artifacts © 2026",
+      "license": "Lisans",
+      "element": "Eleman",
+      "all": "O aza",
+      "auto": "Otomatik",
+      "earth": "Tè",
+      "fire": "Dife",
+      "water": "Dlo",
+      "air": "Lè",
+      "spell": "Echo of",
+      "begin": "Lanse yon anchantman",
+      "end": "Fini",
+      "pause": "Poz",
+      "resume": "Kontinye",
+      "restart": "Rekòmanse",
+      "snapshot": "Kaptire imaj",
+      "fullscreen": "Ekran konplè",
+      "exitFullscreen": "Soti nan ekran konplè",
+      "return": "Retounen",
+      "back": "Retounen sou sit la",
+      "included": "Lojisyèl sous ouvè ki ladan l:",
+      "allHint": "O aza — chanje ant kat palèt ki fèt yo",
+      "snapshotHint": "Sove yon sèl imaj PNG nan twal la",
+      "whatIsThis": "Kisa sa ye?"
+    },
+    "information": {
+      "header": "Bèl vizyèl. Anbyans tousuit.",
+      "paragraphs": [
+        "Moun k ap anchante se yon vizyalizatè gratis ak lejè ki soti nan Ethereal Artifacts, fèt pou pote yon ti anbyans kote ou bezwen l.",
+        "Louvri l nan yon navigatè, konekte l ak yon pwojektè, oswa fè l mache sou Raspberry Pi. Sèvi avè l lakay, nan fèt, nan depo, oswa yon kote li pa t sipoze rive.",
+        "Chwazi yon eleman, kite vizyèl yo chanje poukont yo, oswa jwe ak reglaj yo."
+      ],
+      "dedicationBefore": "Pou moun ki fè lòt moun ",
+      "dedicationEmphasis": "santi",
+      "dedicationAfter": ".\nN a wè nan Rave la."
+    }
+  },
+  "hy": {
+    "controls": {
+      "title": "Հմայողը",
+      "credit": "Ethereal Artifacts-ի կողմից © 2026",
+      "license": "Լիցենզիա",
+      "element": "Տարր",
+      "all": "Պատահական",
+      "auto": "Ավտոմատ",
+      "earth": "Հող",
+      "fire": "Կրակ",
+      "water": "Ջուր",
+      "air": "Օդ",
+      "spell": "Echo of",
+      "begin": "Հմայիր",
+      "end": "Ավարտել",
+      "pause": "Դադար",
+      "resume": "Շարունակել",
+      "restart": "Վերսկսել",
+      "snapshot": "Պահապատկեր",
+      "fullscreen": "Ամբողջ էկրան",
+      "exitFullscreen": "Ելք ամբողջ էկրանից",
+      "return": "Վերադառնալ",
+      "back": "Վերադառնալ կայք",
+      "included": "Ներառված բաց կոդով ծրագրակազմ՝",
+      "allHint": "Պատահական — հերթափոխում է ստեղծված չորս գունապնակների միջև",
+      "snapshotHint": "Պահպանեք կտավի մեկ PNG կադր",
+      "whatIsThis": "Ի՞նչ է սա"
+    },
+    "information": {
+      "header": "Գեղեցիկ պատկերներ։ Անմիջական մթնոլորտ։",
+      "paragraphs": [
+        "Հմայողը-ը Ethereal Artifacts-ի անվճար, թեթև վիզուալիզատորն է՝ ստեղծված անհրաժեշտ վայրում մթնոլորտ հաղորդելու համար։",
+        "Բացեք այն դիտարկիչում, միացրեք պրոյեկտորին կամ գործարկեք Raspberry Pi-ով։ Օգտագործեք տանը, խնջույքի ժամանակ, պահեստում կամ մի վայրում, ուր այն գուցե չպետք է հասներ։",
+        "Ընտրեք տարր, թողեք, որ պատկերները ինքնուրույն փոխվեն, կամ փորձարկեք կարգավորումները։"
+      ],
+      "dedicationBefore": "Նվիրվում է նրանց, ովքեր ուրիշներին ",
+      "dedicationEmphasis": "զգացնել են տալիս",
+      "dedicationAfter": "։\nԿհանդիպենք ռեյվում։"
+    }
+  },
+  "mk": {
+    "controls": {
+      "title": "Маѓепсник",
+      "credit": "од Ethereal Artifacts © 2026",
+      "license": "Лиценца",
+      "element": "Елемент",
+      "all": "Случајно",
+      "auto": "Автоматски",
+      "earth": "Земја",
+      "fire": "Оган",
+      "water": "Вода",
+      "air": "Воздух",
+      "spell": "Echo of",
+      "begin": "Фрли магија",
+      "end": "Заврши",
+      "pause": "Пауза",
+      "resume": "Продолжи",
+      "restart": "Започни одново",
+      "snapshot": "Снимка",
+      "fullscreen": "Цел екран",
+      "exitFullscreen": "Излези од цел екран",
+      "return": "Назад",
+      "back": "Назад кон страницата",
+      "included": "Вклучен софтвер со отворен код:",
+      "allHint": "Случајно — се менува меѓу четирите создадени палети",
+      "snapshotHint": "Зачувај една PNG-снимка од платното",
+      "whatIsThis": "Што е ова?"
+    },
+    "information": {
+      "header": "Прекрасни визуелни ефекти. Моментална атмосфера.",
+      "paragraphs": [
+        "Маѓепсник е бесплатен, лесен визуелизатор од Ethereal Artifacts, создаден да внесе малку атмосфера каде и да ви треба.",
+        "Отворете го во прелистувач, поврзете го со проектор или пуштете го на Raspberry Pi. Користете го дома, на забава, во магацин или на место каде што можеби не требало да стигне.",
+        "Изберете елемент, оставете визуелните ефекти сами да се менуваат или поиграјте си со поставките."
+      ],
+      "dedicationBefore": "Посветено на оние што ги тераат другите да ",
+      "dedicationEmphasis": "чувствуваат",
+      "dedicationAfter": ".\nСе гледаме на рејв."
+    }
+  },
+  "lt": {
+    "controls": {
+      "title": "Kerėtojas",
+      "credit": "iš Ethereal Artifacts © 2026",
+      "license": "Licencija",
+      "element": "Elementas",
+      "all": "Atsitiktinai",
+      "auto": "Automatiškai",
+      "earth": "Žemė",
+      "fire": "Ugnis",
+      "water": "Vanduo",
+      "air": "Oras",
+      "spell": "Echo of",
+      "begin": "Mesti kerus",
+      "end": "Baigti",
+      "pause": "Pristabdyti",
+      "resume": "Tęsti",
+      "restart": "Paleisti iš naujo",
+      "snapshot": "Momentinė nuotrauka",
+      "fullscreen": "Visas ekranas",
+      "exitFullscreen": "Išeiti iš viso ekrano",
+      "return": "Grįžti",
+      "back": "Grįžti į svetainę",
+      "included": "Įtraukta atvirojo kodo programinė įranga:",
+      "allHint": "Atsitiktinai — perjungia keturias sukurtas paletes",
+      "snapshotHint": "Išsaugoti vieną PNG kadrą iš drobės",
+      "whatIsThis": "Kas tai?"
+    },
+    "information": {
+      "header": "Gražūs vaizdai. Akimirksniu kuriama nuotaika.",
+      "paragraphs": [
+        "Kerėtojas yra nemokama, lengva Ethereal Artifacts vizualizavimo priemonė, skirta suteikti nuotaikos ten, kur jos reikia.",
+        "Atidarykite naršyklėje, prijunkite prie projektoriaus arba paleiskite Raspberry Pi. Naudokite namuose, vakarėlyje, sandėlyje ar vietoje, kur jai gal ir nederėjo atsidurti.",
+        "Pasirinkite elementą, leiskite vaizdams keistis automatiškai arba išbandykite nustatymus."
+      ],
+      "dedicationBefore": "Skirta tiems, kurie padeda kitiems ",
+      "dedicationEmphasis": "pajusti",
+      "dedicationAfter": ".\nSusitiksime Rave."
+    }
+  },
+  "pt": {
+    "controls": {
+      "title": "O Encantador",
+      "credit": "por Ethereal Artifacts © 2026",
+      "license": "Licença",
+      "element": "Elemento",
+      "all": "Aleatório",
+      "auto": "Automático",
+      "earth": "Terra",
+      "fire": "Fogo",
+      "water": "Água",
+      "air": "Ar",
+      "spell": "Echo of",
+      "begin": "Lançar encantamento",
+      "end": "Terminar",
+      "pause": "Pausar",
+      "resume": "Retomar",
+      "restart": "Reiniciar",
+      "snapshot": "Captura",
+      "fullscreen": "Ecrã inteiro",
+      "exitFullscreen": "Sair do ecrã inteiro",
+      "return": "Voltar",
+      "back": "Voltar ao site",
+      "included": "Software de código aberto incluído:",
+      "allHint": "Aleatório — alterna entre as quatro paletas criadas",
+      "snapshotHint": "Guardar um único fotograma PNG da tela",
+      "whatIsThis": "O que é isto?"
+    },
+    "information": {
+      "header": "Visuais incríveis. Ambiente instantâneo.",
+      "paragraphs": [
+        "O Encantador é um visualizador gratuito e leve da Ethereal Artifacts, criado para dar um pouco de ambiente onde quer que precises.",
+        "Abre num navegador, liga a um projetor ou executa num Raspberry Pi. Usa em casa, numa festa, num armazém ou num sítio onde talvez não devesse estar.",
+        "Escolhe um elemento, deixa os visuais alternarem sozinhos ou experimenta as definições."
+      ],
+      "dedicationBefore": "Dedicado a quem faz os outros ",
+      "dedicationEmphasis": "sentir",
+      "dedicationAfter": ".\nVemo-nos na Rave."
+    }
+  },
+  "sk": {
+    "controls": {
+      "title": "Zaklínač",
+      "credit": "od Ethereal Artifacts © 2026",
+      "license": "Licencia",
+      "element": "Živel",
+      "all": "Náhodne",
+      "auto": "Automaticky",
+      "earth": "Zem",
+      "fire": "Oheň",
+      "water": "Voda",
+      "air": "Vzduch",
+      "spell": "Echo of",
+      "begin": "Zoslať kúzlo",
+      "end": "Ukončiť",
+      "pause": "Pozastaviť",
+      "resume": "Pokračovať",
+      "restart": "Spustiť znova",
+      "snapshot": "Snímka",
+      "fullscreen": "Celá obrazovka",
+      "exitFullscreen": "Ukončiť celú obrazovku",
+      "return": "Späť",
+      "back": "Späť na web",
+      "included": "Obsiahnutý softvér s otvoreným zdrojovým kódom:",
+      "allHint": "Náhodne — strieda štyri vytvorené palety",
+      "snapshotHint": "Uložiť jeden PNG záber z plátna",
+      "whatIsThis": "Čo je to?"
+    },
+    "information": {
+      "header": "Krásne obrazy. Okamžitá atmosféra.",
+      "paragraphs": [
+        "Zaklínač je bezplatný nenáročný vizualizér od Ethereal Artifacts, ktorý prinesie trochu atmosféry kamkoľvek ju potrebujete.",
+        "Otvorte ho v prehliadači, pripojte k projektoru alebo spustite na Raspberry Pi. Použite ho doma, na večierku, v sklade alebo niekde, kam sa možno vôbec nemal dostať.",
+        "Vyberte živel, nechajte obrazy samy cyklicky prechádzať alebo sa pohrajte s nastaveniami."
+      ],
+      "dedicationBefore": "Venované tým, ktorí v ostatných vyvolávajú ",
+      "dedicationEmphasis": "pocit",
+      "dedicationAfter": ".\nVidíme sa na Rave."
+    }
+  },
+  "th": {
+    "controls": {
+      "title": "ผู้ร่ายมนตร์",
+      "credit": "โดย Ethereal Artifacts © 2026",
+      "license": "ใบอนุญาต",
+      "element": "ธาตุ",
+      "all": "สุ่ม",
+      "auto": "อัตโนมัติ",
+      "earth": "ดิน",
+      "fire": "ไฟ",
+      "water": "น้ำ",
+      "air": "อากาศ",
+      "spell": "Echo of",
+      "begin": "ร่ายมนตร์",
+      "end": "จบ",
+      "pause": "หยุดชั่วคราว",
+      "resume": "เล่นต่อ",
+      "restart": "เริ่มใหม่",
+      "snapshot": "จับภาพ",
+      "fullscreen": "เต็มหน้าจอ",
+      "exitFullscreen": "ออกจากเต็มหน้าจอ",
+      "return": "กลับ",
+      "back": "กลับไปยังเว็บไซต์",
+      "included": "ซอฟต์แวร์โอเพนซอร์สที่รวมอยู่:",
+      "allHint": "สุ่ม — สลับระหว่างชุดสีที่สร้างไว้สี่ชุด",
+      "snapshotHint": "บันทึกภาพ PNG หนึ่งเฟรมจากผืนภาพ",
+      "whatIsThis": "นี่คืออะไร"
+    },
+    "information": {
+      "header": "ภาพงดงาม บรรยากาศมาในทันที",
+      "paragraphs": [
+        "ผู้ร่ายมนตร์ คือวิชวลไลเซอร์ฟรีขนาดเบาจาก Ethereal Artifacts สร้างขึ้นเพื่อเติมบรรยากาศเล็กน้อยได้ทุกที่ที่คุณต้องการ",
+        "เปิดในเบราว์เซอร์ เชื่อมต่อกับโปรเจ็กเตอร์ หรือใช้งานบน Raspberry Pi ใช้ที่บ้าน ในงานปาร์ตี้ ในโกดัง หรือในที่ที่มันอาจไม่ควรไปถึง",
+        "เลือกธาตุ ปล่อยให้ภาพสลับไปเอง หรือทดลองปรับการตั้งค่า"
+      ],
+      "dedicationBefore": "อุทิศให้ผู้ที่ทำให้คนอื่น ",
+      "dedicationEmphasis": "รู้สึก",
+      "dedicationAfter": "\nแล้วพบกันที่งานเรฟ"
+    }
+  },
+  "fr": {
+    "controls": {
+      "title": "L’Enchanteur",
+      "credit": "par Ethereal Artifacts © 2026",
+      "license": "Licence",
+      "element": "Élément",
+      "all": "Aléatoire",
+      "auto": "Auto",
+      "earth": "Terre",
+      "fire": "Feu",
+      "water": "Eau",
+      "air": "Air",
+      "spell": "Echo of",
+      "begin": "Lancer l’enchantement",
+      "end": "Terminer",
+      "pause": "Pause",
+      "resume": "Reprendre",
+      "restart": "Redémarrer",
+      "snapshot": "Instantané",
+      "fullscreen": "Plein écran",
+      "exitFullscreen": "Quitter le plein écran",
+      "return": "Retour",
+      "back": "Retour au site",
+      "included": "Logiciels libres inclus sur :",
+      "allHint": "Aléatoire — alterne entre les quatre palettes créées",
+      "snapshotHint": "Enregistrer une image PNG de la toile",
+      "whatIsThis": "Qu’est-ce que c’est ?"
+    },
+    "information": {
+      "header": "De belles images. Une ambiance instantanée.",
+      "paragraphs": [
+        "L’Enchanteur est un visualiseur gratuit et léger d’Ethereal Artifacts, conçu pour apporter un peu d’ambiance là où vous en avez besoin.",
+        "Ouvrez-le dans un navigateur, branchez-le à un projecteur ou lancez-le sur un Raspberry Pi. Utilisez-le chez vous, en soirée, dans un entrepôt ou dans un lieu où il n’était probablement pas prévu.",
+        "Choisissez un élément, laissez les images défiler automatiquement ou explorez les réglages."
+      ],
+      "dedicationBefore": "Dédié à celles et ceux qui font ",
+      "dedicationEmphasis": "ressentir",
+      "dedicationAfter": " quelque chose aux autres.\nÀ bientôt en rave."
+    }
+  },
+  "mn-Mong": {
+    "controls": {
+      "title": "ᠤᠪᠳᠢᠰ ᠰᠢᠩᠭᠡᠭᠡᠭᠴᠢ",
+      "credit": "Ethereal Artifacts-ᠢᠢᠨ ᠪᠦᠲᠡᠡᠯ © 2026",
+      "license": "ᠯᠢᠼᠧᠨᠽ",
+      "element": "ᠮᠠᠬᠪᠣᠳ",
+      "all": "ᠰᠠᠨᠠᠮᠰᠠᠷ ᠦᠭᠡᠢ",
+      "auto": "ᠠᠦ᠋ᠲ᠋ᠣ",
+      "earth": "ᠭᠠᠵᠠᠷ",
+      "fire": "ᠭᠠᠯ",
+      "water": "ᠤᠰᠤ",
+      "air": "ᠠᠭᠠᠷ",
+      "spell": "Echo of",
+      "begin": "ᠢᠳ ᠱᠢᠳᠢ ᠦᠵᠡᠭᠦᠯᠬᠦ",
+      "end": "ᠳᠤᠤᠰᠭᠠᠬ",
+      "pause": "ᠲᠦᠷ ᠽᠣᠭᠰᠣᠣᠬ",
+      "resume": "ᠦᠷᠭᠡᠯᠵᠯᠦᠦᠯᠡᠬ",
+      "restart": "ᠳᠠᠬᠢᠨ ᠡᠬᠯᠦᠦᠯᠡᠬ",
+      "snapshot": "ᠠᠭᠱᠢᠨ ᠽᠤᠷᠠᠭ",
+      "fullscreen": "ᠳᠡᠯᠭᠡᠴ ᠳᠦᠦᠷᠡᠨ",
+      "exitFullscreen": "ᠳᠡᠯᠭᠡᠴ ᠳᠦᠦᠷᠡᠨ ᠭᠣᠷᠢᠮᠣᠣᠰ ᠭᠠᠷᠠᠬ",
+      "return": "ᠪᠤᠴᠠᠬ",
+      "back": "ᠰᠠᠢᠲ ᠷᠤᠤ ᠪᠤᠴᠠᠬ",
+      "included": "ᠨᠡᠡᠯᠲᠲᠡᠢ ᠡᠬᠢᠢᠨ ᠫᠷᠣᠭᠷᠠᠮ ᠪᠠᠭᠲᠰᠠᠨ ᠲᠥᠬᠥᠥᠷᠥᠮᠵ:",
+      "allHint": "ᠰᠠᠨᠠᠮᠰᠠᠷᠭᠦᠢ — ᠽᠣᠬᠢᠣᠭᠳᠰᠣᠨ ᠳᠥᠷᠸᠥᠨ ᠥᠨᠭᠥᠨᠢᠢ ᠪᠠᠭᠴᠢᠨ ᠬᠣᠣᠷᠣᠨᠳ ᠰᠡᠯᠭᠡᠨᠡ",
+      "snapshotHint": "ᠳᠦᠷᠰᠯᠡᠯᠢᠢᠨ ᠲᠠᠯᠪᠠᠷᠠᠠᠰ ᠨᠡᠭ PNG ᠺᠠᠳᠷ ᠬᠠᠳᠭᠠᠯᠠᠬ",
+      "whatIsThis": "ᠡᠨᠡ ᠶᠤ ᠸᠡ?"
+    },
+    "information": {
+      "header": "ᠭᠣᠶᠮᠰᠣᠭ ᠳᠦᠷᠰᠯᠡᠯ. ᠱᠤᠤᠳ ᠤᠤᠷ ᠠᠮ᠋ᠰᠭᠠᠯ.",
+      "paragraphs": [
+        "ᠤᠪᠳᠢᠰ ᠰᠢᠩᠭᠡᠭᠡᠭᠴᠢ ᠪᠣᠯ Ethereal Artifacts-ᠢᠢᠨ ᠪᠦᠲᠡᠡᠰᠡᠨ, ᠬᠠᠠᠨᠠ ᠴ ᠬᠡᠷᠡᠭᠲᠡᠢ ᠭᠠᠽᠠᠷ ᠤᠤᠷ ᠠᠮ᠋ᠰᠭᠠᠯ ᠨᠡᠮᠡᠬ ᠦᠨᠡᠭᠦᠢ, ᠬᠥᠨᠭᠥᠨ ᠳᠦᠷᠰᠯᠡᠭᠴ ᠶᠮ.",
+        "ᠬᠥᠲᠥᠴ ᠳᠡᠡᠷ ᠨᠡᠡᠵ, ᠫᠷᠣᠶᠺᠲᠣᠷᠲ ᠬᠣᠯᠪᠣᠣᠳ ᠡᠰᠸᠡᠯ Raspberry Pi ᠳᠡᠡᠷ ᠠᠵᠢᠯᠯᠤᠤᠯᠠᠠᠷᠠᠢ. ᠭᠡᠷᠲᠡᠡ, ᠦᠳᠡᠱᠯᠡᠭᠲ, ᠠᠭᠤᠤᠯᠠᠬᠠᠳ, ᠡᠰᠸᠡᠯ ᠠᠨᠬᠨᠠᠠᠰᠠᠠ ᠽᠣᠷᠢᠤᠯᠠᠭᠳᠠᠠᠭᠦᠢ ᠭᠠᠽᠠᠷ ᠴ ᠠᠱᠢᠭᠯᠠᠵ ᠪᠣᠯᠨᠣ.",
+        "ᠮᠠᠬᠪᠣᠳ ᠰᠣᠨᠭᠣᠬ, ᠳᠦᠷᠰᠯᠡᠯᠢᠢᠭ ᠥᠥᠷᠥᠥ ᠡᠡᠯᠵᠯᠡᠨ ᠰᠣᠯᠢᠭᠳᠣᠬᠣᠣᠷ ᠦᠯᠳᠡᠡᠬ ᠡᠰᠸᠡᠯ ᠲᠣᠬᠢᠷᠭᠣᠣᠲᠣᠢ ᠣᠷᠣᠯᠳᠣᠬ ᠪᠣᠯᠣᠮᠵᠲᠣᠢ."
+      ],
+      "dedicationBefore": "ᠪᠤᠰᠳᠠᠳ ",
+      "dedicationEmphasis": "ᠮᠡᠳᠷᠡᠮᠵ",
+      "dedicationAfter": " ᠲᠥᠷᠦᠦᠯᠳᠡᠭ ᠬᠦᠮᠦᠦᠰᠲ ᠽᠣᠷᠢᠤᠯᠠᠸ.\nᠷᠧᠢᠸ ᠳᠡᠡᠷ ᠤᠤᠯᠽᠠᠴᠭᠠᠠᠶ."
+    }
+  },
+  "es": {
+    "controls": {
+      "title": "El Encantador",
+      "credit": "por Ethereal Artifacts © 2026",
+      "license": "Licencia",
+      "element": "Elemento",
+      "all": "Aleatorio",
+      "auto": "Auto",
+      "earth": "Tierra",
+      "fire": "Fuego",
+      "water": "Agua",
+      "air": "Aire",
+      "spell": "Echo of",
+      "begin": "Lanzar el encantamiento",
+      "end": "Finalizar",
+      "pause": "Pausar",
+      "resume": "Reanudar",
+      "restart": "Reiniciar",
+      "snapshot": "Captura",
+      "fullscreen": "Pantalla completa",
+      "exitFullscreen": "Salir de pantalla completa",
+      "return": "Volver",
+      "back": "Volver al sitio",
+      "included": "Software de código abierto incluido en:",
+      "allHint": "Aleatorio — alterna entre las cuatro paletas creadas",
+      "snapshotHint": "Guardar un fotograma PNG del lienzo",
+      "whatIsThis": "¿Qué es esto?"
+    },
+    "information": {
+      "header": "Visuales hermosos. Ambiente al instante.",
+      "paragraphs": [
+        "El Encantador es un visualizador gratuito y ligero de Ethereal Artifacts, creado para aportar un poco de ambiente donde lo necesites.",
+        "Ábrelo en un navegador, conéctalo a un proyector o ejecútalo en una Raspberry Pi. Úsalo en casa, en una fiesta, en un almacén o en algún lugar para el que probablemente no estaba pensado.",
+        "Elige un elemento, deja que los visuales vayan cambiando solos o juega con los ajustes."
+      ],
+      "dedicationBefore": "Dedicado a quienes hacen que los demás ",
+      "dedicationEmphasis": "sientan",
+      "dedicationAfter": " algo.\nNos vemos en la rave."
+    }
+  },
+  "sw": {
+    "controls": {
+      "title": "Anayeroga",
+      "credit": "na Ethereal Artifacts © 2026",
+      "license": "Leseni",
+      "element": "Kipengele",
+      "all": "Nasibu",
+      "auto": "Otomatiki",
+      "earth": "Ardhi",
+      "fire": "Moto",
+      "water": "Maji",
+      "air": "Hewa",
+      "spell": "Echo of",
+      "begin": "Tuma uchawi",
+      "end": "Maliza",
+      "pause": "Sitisha",
+      "resume": "Endelea",
+      "restart": "Anza upya",
+      "snapshot": "Picha tuli",
+      "fullscreen": "Skrini nzima",
+      "exitFullscreen": "Ondoka kwenye skrini nzima",
+      "return": "Rudi",
+      "back": "Rudi kwenye tovuti",
+      "included": "Programu huria imejumuishwa kwenye:",
+      "allHint": "Nasibu — hubadilisha kati ya rangi-mchanganyiko nne zilizoundwa",
+      "snapshotHint": "Hifadhi fremu moja ya PNG kutoka kwenye turubai",
+      "whatIsThis": "Hiki ni nini?"
+    },
+    "information": {
+      "header": "Taswira nzuri. Hali ya kuvutia mara moja.",
+      "paragraphs": [
+        "Anayeroga ni kionyeshi-taswira cha bure na chepesi kutoka Ethereal Artifacts, kilichoundwa kuongeza hali nzuri popote unapohitaji.",
+        "Ifungue kwenye kivinjari, iunganishe na projekta, au iendeshe kwenye Raspberry Pi. Itumie nyumbani, kwenye sherehe, ghalani, au mahali ambapo huenda haikukusudiwa.",
+        "Chagua kipengele, acha taswira zibadilike zenyewe, au jaribu mipangilio."
+      ],
+      "dedicationBefore": "Kwa wale wanaowafanya wengine ",
+      "dedicationEmphasis": "wahisi",
+      "dedicationAfter": " jambo.\nTuonane kwenye rave."
+    }
+  },
+  "gu": {
+    "controls": {
+      "title": "મંત્રમુગ્ધ કરનાર",
+      "credit": "Ethereal Artifacts તરફથી © 2026",
+      "license": "લાઇસન્સ",
+      "element": "તત્ત્વ",
+      "all": "રેન્ડમ",
+      "auto": "આપમેળે",
+      "earth": "પૃથ્વી",
+      "fire": "અગ્નિ",
+      "water": "જળ",
+      "air": "વાયુ",
+      "spell": "Echo of",
+      "begin": "જાદૂ કરો",
+      "end": "સમાપ્ત કરો",
+      "pause": "થોભો",
+      "resume": "ચાલુ રાખો",
+      "restart": "ફરી શરૂ કરો",
+      "snapshot": "સ્નૅપશૉટ",
+      "fullscreen": "પૂર્ણ સ્ક્રીન",
+      "exitFullscreen": "પૂર્ણ સ્ક્રીનમાંથી બહાર નીકળો",
+      "return": "પાછા જાઓ",
+      "back": "સાઇટ પર પાછા જાઓ",
+      "included": "આ ઉપકરણ પર ઓપન સોર્સ સૉફ્ટવેર સામેલ છે:",
+      "allHint": "રેન્ડમ — રચેલી ચાર રંગ-યોજનાઓ વચ્ચે ફેરફાર કરે છે",
+      "snapshotHint": "કૅનવાસની એક PNG ફ્રેમ સાચવો",
+      "whatIsThis": "આ શું છે?"
+    },
+    "information": {
+      "header": "સુંદર દૃશ્યો. તરત જ માહોલ.",
+      "paragraphs": [
+        "મંત્રમુગ્ધ કરનાર એ Ethereal Artifactsનું મફત, હલકું વિઝ્યુઅલાઇઝર છે, જે તમને જ્યાં જરૂર હોય ત્યાં થોડો માહોલ ઊભો કરવા માટે બનાવ્યું છે.",
+        "તેને બ્રાઉઝરમાં ખોલો, પ્રોજેક્ટર સાથે જોડો અથવા Raspberry Pi પર ચલાવો. ઘરે, પાર્ટીમાં, વેરહાઉસમાં કે કદાચ તેના માટે ન બનાવેલી જગ્યાએ તેનો ઉપયોગ કરો.",
+        "તત્ત્વ પસંદ કરો, દૃશ્યોને આપમેળે બદલાવા દો અથવા સેટિંગ્સ અજમાવો."
+      ],
+      "dedicationBefore": "બીજાઓને ",
+      "dedicationEmphasis": "અનુભવ",
+      "dedicationAfter": " કરાવનારાઓને સમર્પિત.\nરેવમાં મળીશું."
+    }
+  },
+  "yo": {
+    "controls": {
+      "title": "Ẹni tó ń ṣe àfọ̀ṣẹ",
+      "credit": "láti ọ̀dọ̀ Ethereal Artifacts © 2026",
+      "license": "Ìwé àṣẹ",
+      "element": "Ìpìlẹ̀",
+      "all": "Àìròtẹ́lẹ̀",
+      "auto": "Láìfọwọ́sí",
+      "earth": "Ilẹ̀",
+      "fire": "Iná",
+      "water": "Omi",
+      "air": "Afẹ́fẹ́",
+      "spell": "Echo of",
+      "begin": "Ṣe àjẹ́",
+      "end": "Parí",
+      "pause": "Dúró díẹ̀",
+      "resume": "Tẹ̀síwájú",
+      "restart": "Bẹ̀rẹ̀ lẹ́ẹ̀kansi",
+      "snapshot": "Àwòrán ìṣẹ́jú kan",
+      "fullscreen": "Gbogbo ojú-ìbòjú",
+      "exitFullscreen": "Jáde kúrò ní gbogbo ojú-ìbòjú",
+      "return": "Padà",
+      "back": "Padà sí ojúlé",
+      "included": "Sọ́fítíwè orísun-ṣíṣí wà nínú:",
+      "allHint": "Àìròtẹ́lẹ̀ — ó ń yí ká láàárín àwọ̀ mẹ́rin tí a ṣe sílẹ̀",
+      "snapshotHint": "Fi fireemu PNG kan pamọ́ láti inú àgbègbè àwòrán",
+      "whatIsThis": "Kí ni èyí?"
+    },
+    "information": {
+      "header": "Àwọn àwòrán ẹlẹ́wà. Ìrònú ayíká lẹ́sẹ̀kẹsẹ̀.",
+      "paragraphs": [
+        "Ẹni tó ń ṣe àfọ̀ṣẹ jẹ́ ohun èlò àfihàn àwòrán ọ̀fẹ́, tó fẹ́ẹ́rẹ́ láti ọwọ́ Ethereal Artifacts, tí a ṣe láti mú ìrònú ayíká wá sí ibikíbi tó bá yẹ fún ọ.",
+        "Ṣí i nínú ẹ̀rọ aṣàwákiri, so ó mọ́ pirojekítà, tàbí ṣiṣẹ́ ẹ́ lórí Raspberry Pi. Lo ó nílé, níbi ayẹyẹ, nínú ilé ìpamọ́, tàbí níbi tí a kò ṣe é fún ní ìpilẹ̀ṣẹ̀.",
+        "Yan ìpìlẹ̀ kan, jẹ́ kí àwọn àwòrán máa yí padà fúnra wọn, tàbí ṣeré pẹ̀lú àwọn ètò."
+      ],
+      "dedicationBefore": "Fún àwọn tó ń mú kí àwọn ẹlòmíràn ",
+      "dedicationEmphasis": "ní ìmọ̀lára",
+      "dedicationAfter": " kan.\nA ó rí ara wa ní rave."
+    }
+  },
+  "uk": {
+    "controls": {
+      "title": "Той, хто зачаровує",
+      "credit": "від Ethereal Artifacts © 2026",
+      "license": "Ліцензія",
+      "element": "Стихія",
+      "all": "Випадково",
+      "auto": "Авто",
+      "earth": "Земля",
+      "fire": "Вогонь",
+      "water": "Вода",
+      "air": "Повітря",
+      "spell": "Echo of",
+      "begin": "Накласти чари",
+      "end": "Завершити",
+      "pause": "Пауза",
+      "resume": "Продовжити",
+      "restart": "Перезапустити",
+      "snapshot": "Знімок",
+      "fullscreen": "На весь екран",
+      "exitFullscreen": "Вийти з повноекранного режиму",
+      "return": "Назад",
+      "back": "Повернутися на сайт",
+      "included": "Програмне забезпечення з відкритим кодом на:",
+      "allHint": "Випадково — перемикає між чотирма створеними палітрами",
+      "snapshotHint": "Зберегти один кадр полотна у форматі PNG",
+      "whatIsThis": "Що це?"
+    },
+    "information": {
+      "header": "Чудові візуальні образи. Миттєва атмосфера.",
+      "paragraphs": [
+        "Той, хто зачаровує — безкоштовний і легкий візуалізатор від Ethereal Artifacts, створений, щоб додати трохи атмосфери там, де вам потрібно.",
+        "Відкрийте його в браузері, під’єднайте до проєктора або запустіть на Raspberry Pi. Користуйтеся вдома, на вечірці, у складському приміщенні чи в місці, для якого його, мабуть, не задумували.",
+        "Оберіть стихію, дозвольте візуальним образам змінюватися автоматично або пограйтеся з налаштуваннями."
+      ],
+      "dedicationBefore": "Присвячується тим, хто допомагає іншим ",
+      "dedicationEmphasis": "відчувати",
+      "dedicationAfter": " щось особливе.\nДо зустрічі на рейві."
+    }
+  },
+  "bg": {
+    "controls": {
+      "title": "Омагьосник",
+      "credit": "от Ethereal Artifacts © 2026",
+      "license": "Лиценз",
+      "element": "Елемент",
+      "all": "Случайно",
+      "auto": "Авто",
+      "earth": "Земя",
+      "fire": "Огън",
+      "water": "Вода",
+      "air": "Въздух",
+      "spell": "Echo of",
+      "begin": "Направи заклинание",
+      "end": "Край",
+      "pause": "Пауза",
+      "resume": "Продължи",
+      "restart": "Започни отначало",
+      "snapshot": "Кадър",
+      "fullscreen": "Цял екран",
+      "exitFullscreen": "Изход от цял екран",
+      "return": "Назад",
+      "back": "Обратно към сайта",
+      "included": "Софтуер с отворен код, включен на:",
+      "allHint": "Случайно — превключва между четирите създадени палитри",
+      "snapshotHint": "Запази един PNG кадър от платното",
+      "whatIsThis": "Какво е това?"
+    },
+    "information": {
+      "header": "Красиви визуализации. Незабавна атмосфера.",
+      "paragraphs": [
+        "Омагьосник е безплатен, лек визуализатор от Ethereal Artifacts, създаден да внесе малко атмосфера навсякъде, където ви е нужна.",
+        "Отворете го в браузър, свържете го с проектор или го стартирайте на Raspberry Pi. Използвайте го у дома, на парти, в склад или на място, за което вероятно не е бил предназначен.",
+        "Изберете елемент, оставете визуализациите да се сменят автоматично или поиграйте с настройките."
+      ],
+      "dedicationBefore": "Посветено на онези, които карат другите да ",
+      "dedicationEmphasis": "усещат",
+      "dedicationAfter": " нещо.\nДо среща на рейва."
+    }
+  },
+  "yue-Hant": {
+    "controls": {
+      "title": "附魔者",
+      "credit": "Ethereal Artifacts 製作 © 2026",
+      "license": "授權條款",
+      "element": "元素",
+      "all": "隨機",
+      "auto": "自動",
+      "earth": "地",
+      "fire": "火",
+      "water": "水",
+      "air": "風",
+      "spell": "Echo of",
+      "begin": "施展魔法",
+      "end": "結束",
+      "pause": "暫停",
+      "resume": "繼續",
+      "restart": "重新開始",
+      "snapshot": "截圖",
+      "fullscreen": "全螢幕",
+      "exitFullscreen": "退出全螢幕",
+      "return": "返回",
+      "back": "返回網站",
+      "included": "開源軟件包含於：",
+      "allHint": "隨機 — 喺四款設計好嘅色彩配搭之間輪流切換",
+      "snapshotHint": "儲存畫布其中一格做 PNG 圖片",
+      "whatIsThis": "呢個係咩？"
+    },
+    "information": {
+      "header": "靚麗視覺，即刻營造氣氛。",
+      "paragraphs": [
+        "附魔者 係 Ethereal Artifacts 推出嘅免費輕巧視覺效果工具，無論你喺邊度需要，都可以增添一點氣氛。",
+        "用瀏覽器開啟，連接投影機，或者喺 Raspberry Pi 上運行。喺屋企、派對、貨倉，甚至可能原本唔係為佢而設嘅地方都用得。　",
+        "揀一種元素，讓視覺效果自動輪流變換，或者自己玩下設定。"
+      ],
+      "dedicationBefore": "獻畀令其他人都能夠 ",
+      "dedicationEmphasis": "感受",
+      "dedicationAfter": "到嘢嘅人。\n銳舞派對見。"
+    }
+  },
+  "da": {
+    "controls": {
+      "title": "Fortrylleren",
+      "credit": "af Ethereal Artifacts © 2026",
+      "license": "Licens",
+      "element": "Element",
+      "all": "Tilfældig",
+      "auto": "Auto",
+      "earth": "Jord",
+      "fire": "Ild",
+      "water": "Vand",
+      "air": "Luft",
+      "spell": "Echo of",
+      "begin": "Kast fortryllelsen",
+      "end": "Afslut",
+      "pause": "Sæt på pause",
+      "resume": "Fortsæt",
+      "restart": "Start igen",
+      "snapshot": "Øjebliksbillede",
+      "fullscreen": "Fuld skærm",
+      "exitFullscreen": "Afslut fuld skærm",
+      "return": "Tilbage",
+      "back": "Tilbage til siden",
+      "included": "Open source-software inkluderet på:",
+      "allHint": "Tilfældig — skifter mellem de fire designede paletter",
+      "snapshotHint": "Gem ét PNG-billede fra lærredet",
+      "whatIsThis": "Hvad er det?"
+    },
+    "information": {
+      "header": "Smukke billeder. Øjeblikkelig stemning.",
+      "paragraphs": [
+        "Fortrylleren er en gratis, let visualizer fra Ethereal Artifacts, skabt til at give lidt stemning, hvor du har brug for det.",
+        "Åbn den i en browser, tilslut den til en projektor, eller kør den på en Raspberry Pi. Brug den derhjemme, til en fest, på et lager eller et sted, den nok ikke var tænkt til.",
+        "Vælg et element, lad billederne skifte af sig selv, eller leg med indstillingerne."
+      ],
+      "dedicationBefore": "Tilegnet dem, der får andre til at ",
+      "dedicationEmphasis": "føle",
+      "dedicationAfter": " noget.\nVi ses til rave."
+    }
+  },
+  "tl": {
+    "controls": {
+      "title": "Tagapaglagay ng mahika",
+      "credit": "mula sa Ethereal Artifacts © 2026",
+      "license": "Lisensiya",
+      "element": "Elemento",
+      "all": "Random",
+      "auto": "Auto",
+      "earth": "Lupa",
+      "fire": "Apoy",
+      "water": "Tubig",
+      "air": "Hangin",
+      "spell": "Echo of",
+      "begin": "Magpalabas ng mahika",
+      "end": "Tapusin",
+      "pause": "I-pause",
+      "resume": "Ipagpatuloy",
+      "restart": "I-restart",
+      "snapshot": "Snapshot",
+      "fullscreen": "Buong screen",
+      "exitFullscreen": "Lumabas sa buong screen",
+      "return": "Bumalik",
+      "back": "Bumalik sa site",
+      "included": "Kasamang open-source na software sa:",
+      "allHint": "Random — nagpapalitan ang apat na likhang palette",
+      "snapshotHint": "Mag-save ng isang PNG frame mula sa canvas",
+      "whatIsThis": "Ano ito?"
+    },
+    "information": {
+      "header": "Magagandang biswal. Agarang atmospera.",
+      "paragraphs": [
+        "Ang Tagapaglagay ng mahika ay libre at magaan na visualizer mula sa Ethereal Artifacts, ginawa para magdagdag ng kaunting atmospera saanman mo kailangan.",
+        "Buksan ito sa browser, ikonekta sa projector, o patakbuhin sa Raspberry Pi. Gamitin sa bahay, sa party, sa bodega, o sa lugar na malamang ay hindi talaga para rito.",
+        "Pumili ng elemento, hayaang kusang magpalit-palit ang mga biswal, o galawin ang mga setting."
+      ],
+      "dedicationBefore": "Iniaalay sa mga nagpaparamdam sa iba ng ",
+      "dedicationEmphasis": "damdamin",
+      "dedicationAfter": ".\nKita-kits sa rave."
+    }
+  },
+  "el": {
+    "controls": {
+      "title": "Γητευτής",
+      "credit": "από την Ethereal Artifacts © 2026",
+      "license": "Άδεια",
+      "element": "Στοιχείο",
+      "all": "Τυχαία",
+      "auto": "Αυτόματα",
+      "earth": "Γη",
+      "fire": "Φωτιά",
+      "water": "Νερό",
+      "air": "Αέρας",
+      "spell": "Echo of",
+      "begin": "Κάνε μαγεία",
+      "end": "Τέλος",
+      "pause": "Παύση",
+      "resume": "Συνέχεια",
+      "restart": "Επανεκκίνηση",
+      "snapshot": "Στιγμιότυπο",
+      "fullscreen": "Πλήρης οθόνη",
+      "exitFullscreen": "Έξοδος από πλήρη οθόνη",
+      "return": "Επιστροφή",
+      "back": "Πίσω στον ιστότοπο",
+      "included": "Λογισμικό ανοιχτού κώδικα περιλαμβάνεται στο:",
+      "allHint": "Τυχαία — εναλλάσσει τις τέσσερις σχεδιασμένες παλέτες",
+      "snapshotHint": "Αποθήκευση ενός καρέ PNG από τον καμβά",
+      "whatIsThis": "Τι είναι αυτό;"
+    },
+    "information": {
+      "header": "Όμορφες εικόνες. Άμεση ατμόσφαιρα.",
+      "paragraphs": [
+        "Το Γητευτής είναι ένα δωρεάν, ελαφρύ οπτικοποιητικό εργαλείο της Ethereal Artifacts, φτιαγμένο για να προσθέτει λίγη ατμόσφαιρα όπου τη χρειάζεστε.",
+        "Ανοίξτε το σε πρόγραμμα περιήγησης, συνδέστε το σε προβολέα ή εκτελέστε το σε Raspberry Pi. Χρησιμοποιήστε το στο σπίτι, σε πάρτι, σε αποθήκη ή κάπου όπου μάλλον δεν προοριζόταν να χρησιμοποιηθεί.",
+        "Επιλέξτε ένα στοιχείο, αφήστε τις εικόνες να εναλλάσσονται αυτόματα ή πειραματιστείτε με τις ρυθμίσεις."
+      ],
+      "dedicationBefore": "Αφιερωμένο σε όσους κάνουν τους άλλους να ",
+      "dedicationEmphasis": "αισθάνονται",
+      "dedicationAfter": " κάτι.\nΤα λέμε στο rave."
+    }
+  },
+  "mr": {
+    "controls": {
+      "title": "मंत्र घालणारा",
+      "credit": "Ethereal Artifacts कडून © 2026",
+      "license": "परवाना",
+      "element": "तत्त्व",
+      "all": "यादृच्छिक",
+      "auto": "स्वयंचलित",
+      "earth": "पृथ्वी",
+      "fire": "अग्नी",
+      "water": "पाणी",
+      "air": "वायू",
+      "spell": "Echo of",
+      "begin": "जादू करा",
+      "end": "समाप्त",
+      "pause": "विराम",
+      "resume": "पुन्हा सुरू करा",
+      "restart": "पुन्हा सुरू करा",
+      "snapshot": "स्नॅपशॉट",
+      "fullscreen": "पूर्ण स्क्रीन",
+      "exitFullscreen": "पूर्ण स्क्रीनमधून बाहेर पडा",
+      "return": "परत",
+      "back": "साइटवर परत जा",
+      "included": "या ठिकाणी मुक्त स्रोत सॉफ्टवेअर समाविष्ट:",
+      "allHint": "यादृच्छिक — तयार केलेल्या चार रंगसंगतींमध्ये बदलते",
+      "snapshotHint": "कॅनव्हासमधील एक PNG फ्रेम जतन करा",
+      "whatIsThis": "हे काय आहे?"
+    },
+    "information": {
+      "header": "सुंदर दृश्ये. क्षणात वातावरण.",
+      "paragraphs": [
+        "मंत्र घालणारा हे Ethereal Artifacts चे मोफत, हलके व्हिज्युअलायझर आहे; जिथे गरज असेल तिथे वातावरण निर्माण करण्यासाठी ते बनवले आहे.",
+        "ते ब्राउझरमध्ये उघडा, प्रोजेक्टरला जोडा किंवा Raspberry Pi वर चालवा. घरी, पार्टीत, गोदामात किंवा कदाचित त्यासाठी न ठरवलेल्या जागी वापरा.",
+        "एखादे तत्त्व निवडा, दृश्ये आपोआप बदलू द्या किंवा सेटिंग्ज वापरून पाहा."
+      ],
+      "dedicationBefore": "इतरांना ",
+      "dedicationEmphasis": "अनुभव",
+      "dedicationAfter": " देणाऱ्यांना समर्पित.\nरेव्हमध्ये भेटू."
+    }
+  },
+  "az": {
+    "controls": {
+      "title": "Ovsunçu",
+      "credit": "Ethereal Artifacts tərəfindən © 2026",
+      "license": "Lisenziya",
+      "element": "Element",
+      "all": "Təsadüfi",
+      "auto": "Avtomatik",
+      "earth": "Torpaq",
+      "fire": "Od",
+      "water": "Su",
+      "air": "Hava",
+      "spell": "Echo of",
+      "begin": "Sehr et",
+      "end": "Bitir",
+      "pause": "Fasilə",
+      "resume": "Davam et",
+      "restart": "Yenidən başla",
+      "snapshot": "Ani görüntü",
+      "fullscreen": "Tam ekran",
+      "exitFullscreen": "Tam ekrandan çıx",
+      "return": "Qayıt",
+      "back": "Sayta qayıt",
+      "included": "Açıq mənbəli proqram təminatı daxildir:",
+      "allHint": "Təsadüfi — hazırlanmış dörd palitra arasında keçir",
+      "snapshotHint": "Kətandan bir PNG kadrı saxla",
+      "whatIsThis": "Bu nədir?"
+    },
+    "information": {
+      "header": "Gözəl görüntülər. Dərhal ab-hava.",
+      "paragraphs": [
+        "Ovsunçu Ethereal Artifacts tərəfindən yaradılmış pulsuz, yüngül vizualizatorudur; ehtiyac duyduğunuz yerə bir az ab-hava qatmaq üçün hazırlanıb.",
+        "Onu brauzerdə açın, proyektora qoşun və ya Raspberry Pi-də işə salın. Evdə, əyləncədə, anbarda və ya yəqin ki, onun üçün nəzərdə tutulmayan bir yerdə istifadə edin.",
+        "Element seçin, görüntülərin öz-özünə dəyişməsinə icazə verin və ya ayarlarla oynayın."
+      ],
+      "dedicationBefore": "Başqalarına ",
+      "dedicationEmphasis": "hiss",
+      "dedicationAfter": " yaşadanlara ithaf olunur.\nRavedə görüşərik."
+    }
+  },
+  "ms": {
+    "controls": {
+      "title": "Pemberi pesona",
+      "credit": "oleh Ethereal Artifacts © 2026",
+      "license": "Lesen",
+      "element": "Unsur",
+      "all": "Rawak",
+      "auto": "Auto",
+      "earth": "Bumi",
+      "fire": "Api",
+      "water": "Air",
+      "air": "Udara",
+      "spell": "Echo of",
+      "begin": "Lafazkan mantera",
+      "end": "Tamat",
+      "pause": "Jeda",
+      "resume": "Sambung",
+      "restart": "Mula semula",
+      "snapshot": "Syot kilat",
+      "fullscreen": "Skrin penuh",
+      "exitFullscreen": "Keluar daripada skrin penuh",
+      "return": "Kembali",
+      "back": "Kembali ke laman",
+      "included": "Perisian sumber terbuka disertakan pada:",
+      "allHint": "Rawak — bertukar antara empat palet yang direka",
+      "snapshotHint": "Simpan satu bingkai PNG daripada kanvas",
+      "whatIsThis": "Apakah ini?"
+    },
+    "information": {
+      "header": "Visual yang indah. Suasana serta-merta.",
+      "paragraphs": [
+        "Pemberi pesona ialah visualizer percuma dan ringan daripada Ethereal Artifacts, dicipta untuk membawa sedikit suasana ke mana sahaja anda memerlukannya.",
+        "Bukanya dalam pelayar, sambungkan kepada projektor atau jalankannya pada Raspberry Pi. Gunakannya di rumah, di parti, di gudang atau di tempat yang mungkin bukan tujuan asalnya.",
+        "Pilih unsur, biarkan visual bertukar sendiri atau cuba tetapan yang tersedia."
+      ],
+      "dedicationBefore": "Ditujukan kepada mereka yang membuat orang lain ",
+      "dedicationEmphasis": "merasai",
+      "dedicationAfter": " sesuatu.\nJumpa di rave."
+    }
+  },
+  "hu": {
+    "controls": {
+      "title": "A bűvölő",
+      "credit": "az Ethereal Artifacts alkotása © 2026",
+      "license": "Licenc",
+      "element": "Elem",
+      "all": "Véletlenszerű",
+      "auto": "Automatikus",
+      "earth": "Föld",
+      "fire": "Tűz",
+      "water": "Víz",
+      "air": "Levegő",
+      "spell": "Echo of",
+      "begin": "Varázslat elmondása",
+      "end": "Befejezés",
+      "pause": "Szünet",
+      "resume": "Folytatás",
+      "restart": "Újraindítás",
+      "snapshot": "Pillanatkép",
+      "fullscreen": "Teljes képernyő",
+      "exitFullscreen": "Kilépés a teljes képernyőből",
+      "return": "Vissza",
+      "back": "Vissza az oldalra",
+      "included": "Nyílt forráskódú szoftver ezen:",
+      "allHint": "Véletlenszerű — váltogat a négy megalkotott paletta között",
+      "snapshotHint": "A vászon egy képkockájának mentése PNG-ként",
+      "whatIsThis": "Mi ez?"
+    },
+    "information": {
+      "header": "Gyönyörű látvány. Azonnali hangulat.",
+      "paragraphs": [
+        "Az A bűvölő az Ethereal Artifacts ingyenes, könnyű vizualizálója, amely azért készült, hogy bárhol egy kis hangulatot teremtsen.",
+        "Nyisd meg böngészőben, csatlakoztasd projektorhoz, vagy futtasd Raspberry Pi eszközön. Használd otthon, buliban, raktárban vagy olyan helyen, ahová talán nem is szánták.",
+        "Válassz egy elemet, hagyd, hogy a látvány magától váltakozzon, vagy próbálgasd a beállításokat."
+      ],
+      "dedicationBefore": "Azoknak ajánljuk, akik másokkal is ",
+      "dedicationEmphasis": "éreztetnek",
+      "dedicationAfter": " valamit.\nTalálkozunk a rave-en."
+    }
+  },
+  "kk": {
+    "controls": {
+      "title": "Сиқыр дарытушы",
+      "credit": "Ethereal Artifacts ұсынады © 2026",
+      "license": "Лицензия",
+      "element": "Элемент",
+      "all": "Кездейсоқ",
+      "auto": "Автоматты",
+      "earth": "Жер",
+      "fire": "От",
+      "water": "Су",
+      "air": "Ауа",
+      "spell": "Echo of",
+      "begin": "Сиқыр жасау",
+      "end": "Аяқтау",
+      "pause": "Кідірту",
+      "resume": "Жалғастыру",
+      "restart": "Қайта бастау",
+      "snapshot": "Суретке түсіру",
+      "fullscreen": "Толық экран",
+      "exitFullscreen": "Толық экраннан шығу",
+      "return": "Қайту",
+      "back": "Сайтқа оралу",
+      "included": "Ашық бастапқы кодты бағдарлама қолжетімді:",
+      "allHint": "Кездейсоқ — авторлық төрт палитра арасында ауысады",
+      "snapshotHint": "Кенептің бір PNG кадрын сақтау",
+      "whatIsThis": "Бұл не?"
+    },
+    "information": {
+      "header": "Әсем көріністер. Лезде қалыптасқан көңіл күй.",
+      "paragraphs": [
+        "Сиқыр дарытушы — Ethereal Artifacts жасаған тегін, жеңіл визуализатор; қажет жерде ерекше көңіл күй сыйлау үшін әзірленген.",
+        "Оны браузерде ашыңыз, проекторға жалғаңыз немесе Raspberry Pi құрылғысында іске қосыңыз. Үйде, кеште, қоймада не оған арналмаған болуы мүмкін жерде қолданыңыз.",
+        "Элемент таңдаңыз, көріністерді өздігінен ауыстырыңыз немесе баптауларды байқап көріңіз."
+      ],
+      "dedicationBefore": "Өзгелерге бір нәрсені ",
+      "dedicationEmphasis": "сезіндіретін",
+      "dedicationAfter": " адамдарға арналады.\nРейв кешінде кездескенше."
+    }
+  },
+  "sr": {
+    "controls": {
+      "title": "Онај који зачарава",
+      "credit": "од Ethereal Artifacts © 2026",
+      "license": "Лиценца",
+      "element": "Елемент",
+      "all": "Насумично",
+      "auto": "Аутоматски",
+      "earth": "Земља",
+      "fire": "Ватра",
+      "water": "Вода",
+      "air": "Ваздух",
+      "spell": "Echo of",
+      "begin": "Баци чаролију",
+      "end": "Заврши",
+      "pause": "Пауза",
+      "resume": "Настави",
+      "restart": "Покрени поново",
+      "snapshot": "Снимак",
+      "fullscreen": "Цео екран",
+      "exitFullscreen": "Изађи из режима целог екрана",
+      "return": "Назад",
+      "back": "Назад на сајт",
+      "included": "Софтвер отвореног кода укључен на:",
+      "allHint": "Насумично — смењује четири осмишљене палете",
+      "snapshotHint": "Сачувај један PNG кадар са платна",
+      "whatIsThis": "Шта је ово?"
+    },
+    "information": {
+      "header": "Предивни призори. Тренутна атмосфера.",
+      "paragraphs": [
+        "Онај који зачарава је бесплатан, лаган визуализатор компаније Ethereal Artifacts, направљен да унесе мало атмосфере где год вам затреба.",
+        "Отворите га у прегледачу, повежите са пројектором или покрените на Raspberry Pi уређају. Користите га код куће, на журци, у складишту или негде где вероватно није био намењен.",
+        "Изаберите елемент, пустите да се призори сами смењују или се поиграјте подешавањима."
+      ],
+      "dedicationBefore": "Посвећено онима који помажу другима да ",
+      "dedicationEmphasis": "осете",
+      "dedicationAfter": " нешто.\nВидимо се на рејву."
+    }
+  },
+  "ka": {
+    "controls": {
+      "title": "ის, ვინც აჯადოებს",
+      "credit": "Ethereal Artifacts-ისგან © 2026",
+      "license": "ლიცენზია",
+      "element": "სტიქია",
+      "all": "შემთხვევითი",
+      "auto": "ავტომატური",
+      "earth": "მიწა",
+      "fire": "ცეცხლი",
+      "water": "წყალი",
+      "air": "ჰაერი",
+      "spell": "Echo of",
+      "begin": "შელოცვის წარმოთქმა",
+      "end": "დასრულება",
+      "pause": "შეჩერება",
+      "resume": "გაგრძელება",
+      "restart": "თავიდან დაწყება",
+      "snapshot": "კადრის შენახვა",
+      "fullscreen": "სრული ეკრანი",
+      "exitFullscreen": "სრული ეკრანიდან გამოსვლა",
+      "return": "უკან",
+      "back": "საიტზე დაბრუნება",
+      "included": "ღია კოდის პროგრამა გაშვებულია:",
+      "allHint": "შემთხვევითი — მონაცვლეობით აჩვენებს ოთხ შექმნილ პალიტრას",
+      "snapshotHint": "ტილოდან ერთი PNG კადრის შენახვა",
+      "whatIsThis": "რა არის ეს?"
+    },
+    "information": {
+      "header": "ლამაზი გამოსახულებები. მყისიერი განწყობა.",
+      "paragraphs": [
+        "ის, ვინც აჯადოებს Ethereal Artifacts-ის უფასო, მსუბუქი ვიზუალიზატორია, რომელიც იქ განწყობის შესაქმნელად შეიქმნა, სადაც ეს გჭირდებათ.",
+        "გახსენით ბრაუზერში, შეუერთეთ პროექტორს ან გაუშვით Raspberry Pi-ზე. გამოიყენეთ სახლში, წვეულებაზე, საწყობში ან ისეთ ადგილას, რომლისთვისაც, ალბათ, არ იყო განკუთვნილი.",
+        "აირჩიეთ სტიქია, გამოსახულებებს ავტომატურად მონაცვლეობის საშუალება მიეცით ან პარამეტრები მოსინჯეთ."
+      ],
+      "dedicationBefore": "მათ, ვინც სხვებს ",
+      "dedicationEmphasis": "აგრძნობინებს",
+      "dedicationAfter": " რაღაცას, ეძღვნება.\nრეივზე შევხვდებით."
+    }
+  },
+  "is": {
+    "controls": {
+      "title": "Sá sem leggur álög",
+      "credit": "frá Ethereal Artifacts © 2026",
+      "license": "Leyfi",
+      "element": "Frumefni",
+      "all": "Handahófskennt",
+      "auto": "Sjálfvirkt",
+      "earth": "Jörð",
+      "fire": "Eldur",
+      "water": "Vatn",
+      "air": "Loft",
+      "spell": "Echo of",
+      "begin": "Varpa töfrum",
+      "end": "Ljúka",
+      "pause": "Gera hlé",
+      "resume": "Halda áfram",
+      "restart": "Byrja aftur",
+      "snapshot": "Skyndimynd",
+      "fullscreen": "Fylla skjá",
+      "exitFullscreen": "Hætta í fullum skjá",
+      "return": "Til baka",
+      "back": "Aftur á síðuna",
+      "included": "Opinn hugbúnaður fylgir á:",
+      "allHint": "Handahófskennt — skiptir á milli fjögurra hannaðra litasafna",
+      "snapshotHint": "Vista einn PNG-ramma af striganum",
+      "whatIsThis": "Hvað er þetta?"
+    },
+    "information": {
+      "header": "Fallegar myndir. Stemning á augabragði.",
+      "paragraphs": [
+        "Sá sem leggur álög er ókeypis og létt myndsýnir frá Ethereal Artifacts, gerð til að skapa smá stemningu hvar sem þú þarft á henni að halda.",
+        "Opnaðu hana í vafra, tengdu hana við skjávarpa eða keyrðu á Raspberry Pi. Notaðu hana heima, í partýi, í vöruhúsi eða einhvers staðar þar sem hún átti líklega ekki að vera.",
+        "Veldu frumefni, leyfðu myndunum að víxlast sjálfkrafa eða prófaðu stillingarnar."
+      ],
+      "dedicationBefore": "Tileinkað þeim sem láta aðra ",
+      "dedicationEmphasis": "finna",
+      "dedicationAfter": " eitthvað.\nSjáumst á rave."
+    }
+  },
+  "nb": {
+    "controls": {
+      "title": "Fortrylleren",
+      "credit": "av Ethereal Artifacts © 2026",
+      "license": "Lisens",
+      "element": "Element",
+      "all": "Tilfeldig",
+      "auto": "Auto",
+      "earth": "Jord",
+      "fire": "Ild",
+      "water": "Vann",
+      "air": "Luft",
+      "spell": "Echo of",
+      "begin": "Kast fortryllelsen",
+      "end": "Avslutt",
+      "pause": "Sett på pause",
+      "resume": "Fortsett",
+      "restart": "Start på nytt",
+      "snapshot": "Øyeblikksbilde",
+      "fullscreen": "Fullskjerm",
+      "exitFullscreen": "Avslutt fullskjerm",
+      "return": "Tilbake",
+      "back": "Tilbake til nettstedet",
+      "included": "Åpen kildekode-programvare inkludert på:",
+      "allHint": "Tilfeldig — veksler mellom de fire utformede palettene",
+      "snapshotHint": "Lagre ett PNG-bilde fra lerretet",
+      "whatIsThis": "Hva er dette?"
+    },
+    "information": {
+      "header": "Vakre bilder. Umiddelbar stemning.",
+      "paragraphs": [
+        "Fortrylleren er en gratis og lett visualiserer fra Ethereal Artifacts, laget for å skape litt stemning der du trenger det.",
+        "Åpne den i en nettleser, koble den til en projektor eller kjør den på en Raspberry Pi. Bruk den hjemme, på fest, i et lager eller et sted den kanskje ikke var ment for.",
+        "Velg et element, la bildene veksle automatisk, eller prøv deg fram med innstillingene."
+      ],
+      "dedicationBefore": "Tilegnet dem som får andre til å ",
+      "dedicationEmphasis": "føle",
+      "dedicationAfter": " noe.\nVi sees på rave."
+    }
+  },
+  "ro": {
+    "controls": {
+      "title": "Cel care vrăjește",
+      "credit": "de Ethereal Artifacts © 2026",
+      "license": "Licență",
+      "element": "Element",
+      "all": "Aleatoriu",
+      "auto": "Automat",
+      "earth": "Pământ",
+      "fire": "Foc",
+      "water": "Apă",
+      "air": "Aer",
+      "spell": "Echo of",
+      "begin": "Rostește vraja",
+      "end": "Încheie",
+      "pause": "Pauză",
+      "resume": "Continuă",
+      "restart": "Repornește",
+      "snapshot": "Instantaneu",
+      "fullscreen": "Ecran complet",
+      "exitFullscreen": "Ieși din ecran complet",
+      "return": "Înapoi",
+      "back": "Înapoi la site",
+      "included": "Software cu sursă deschisă inclus pe:",
+      "allHint": "Aleatoriu — alternează între cele patru palete create",
+      "snapshotHint": "Salvează un cadru PNG de pe pânză",
+      "whatIsThis": "Ce este asta?"
+    },
+    "information": {
+      "header": "Imagini superbe. Atmosferă instantanee.",
+      "paragraphs": [
+        "Cel care vrăjește este un vizualizator gratuit și ușor de la Ethereal Artifacts, creat pentru a aduce puțină atmosferă oriunde ai nevoie.",
+        "Deschide-l într-un browser, conectează-l la un proiector sau rulează-l pe Raspberry Pi. Folosește-l acasă, la o petrecere, într-un depozit sau într-un loc pentru care probabil nu a fost gândit.",
+        "Alege un element, lasă imaginile să se schimbe automat sau joacă-te cu setările."
+      ],
+      "dedicationBefore": "Dedicat celor care îi fac pe ceilalți să ",
+      "dedicationEmphasis": "simtă",
+      "dedicationAfter": " ceva.\nNe vedem la rave."
+    }
+  },
+  "sl": {
+    "controls": {
+      "title": "Začarovalec",
+      "credit": "od Ethereal Artifacts © 2026",
+      "license": "Licenca",
+      "element": "Element",
+      "all": "Naključno",
+      "auto": "Samodejno",
+      "earth": "Zemlja",
+      "fire": "Ogenj",
+      "water": "Voda",
+      "air": "Zrak",
+      "spell": "Echo of",
+      "begin": "Izreci urok",
+      "end": "Končaj",
+      "pause": "Premor",
+      "resume": "Nadaljuj",
+      "restart": "Začni znova",
+      "snapshot": "Posnetek",
+      "fullscreen": "Celozaslonski način",
+      "exitFullscreen": "Izhod iz celozaslonskega načina",
+      "return": "Nazaj",
+      "back": "Nazaj na spletno mesto",
+      "included": "Odprtokodna programska oprema je vključena na:",
+      "allHint": "Naključno — preklaplja med štirimi ustvarjenimi paletami",
+      "snapshotHint": "Shrani en okvir PNG s platna",
+      "whatIsThis": "Kaj je to?"
+    },
+    "information": {
+      "header": "Čudoviti vizualni prizori. Takojšnje vzdušje.",
+      "paragraphs": [
+        "Začarovalec je brezplačen, lahek vizualizator znamke Ethereal Artifacts, ustvarjen za kanček vzdušja, kjer koli ga potrebujete.",
+        "Odprite ga v brskalniku, povežite s projektorjem ali zaženite na Raspberry Pi. Uporabite ga doma, na zabavi, v skladišču ali nekje, kjer verjetno ni bil predviden.",
+        "Izberite element, prepustite samodejno menjavanje prizorov ali se poigrajte z nastavitvami."
+      ],
+      "dedicationBefore": "Posvečeno tistim, ki drugim pomagajo ",
+      "dedicationEmphasis": "čutiti",
+      "dedicationAfter": " nekaj.\nSe vidimo na rave zabavi."
+    }
+  },
+  "tr": {
+    "controls": {
+      "title": "Efsuncu",
+      "credit": "Ethereal Artifacts tarafından © 2026",
+      "license": "Lisans",
+      "element": "Öğe",
+      "all": "Rastgele",
+      "auto": "Otomatik",
+      "earth": "Toprak",
+      "fire": "Ateş",
+      "water": "Su",
+      "air": "Hava",
+      "spell": "Echo of",
+      "begin": "Büyü yap",
+      "end": "Bitir",
+      "pause": "Duraklat",
+      "resume": "Sürdür",
+      "restart": "Yeniden başlat",
+      "snapshot": "Anlık görüntü",
+      "fullscreen": "Tam ekran",
+      "exitFullscreen": "Tam ekrandan çık",
+      "return": "Geri dön",
+      "back": "Siteye dön",
+      "included": "Açık kaynaklı yazılım şurada bulunur:",
+      "allHint": "Rastgele — tasarlanmış dört palet arasında geçiş yapar",
+      "snapshotHint": "Tuvalden tek bir PNG karesi kaydet",
+      "whatIsThis": "Bu nedir?"
+    },
+    "information": {
+      "header": "Güzel görseller. Anında atmosfer.",
+      "paragraphs": [
+        "Efsuncu, Ethereal Artifacts tarafından hazırlanmış ücretsiz ve hafif bir görselleştiricidir; ihtiyaç duyduğunuz her yere biraz atmosfer katmak için tasarlanmıştır.",
+        "Bir tarayıcıda açın, projektöre bağlayın veya Raspberry Pi üzerinde çalıştırın. Evde, partide, depoda ya da muhtemelen kullanım amacı olmayan bir yerde kullanın.",
+        "Bir öğe seçin, görsellerin kendiliğinden değişmesine izin verin veya ayarlarla oynayın."
+      ],
+      "dedicationBefore": "Başkalarına bir şeyler ",
+      "dedicationEmphasis": "hissettiren",
+      "dedicationAfter": " kişilere adanmıştır.\nRave'de görüşürüz."
+    }
+  },
+  "de": {
+    "controls": {
+      "title": "Verzauberer",
+      "credit": "von Ethereal Artifacts © 2026",
+      "license": "Lizenz",
+      "element": "Element",
+      "all": "Zufall",
+      "auto": "Auto",
+      "earth": "Erde",
+      "fire": "Feuer",
+      "water": "Wasser",
+      "air": "Luft",
+      "spell": "Echo of",
+      "begin": "Verzauberung wirken",
+      "end": "Beenden",
+      "pause": "Pause",
+      "resume": "Fortsetzen",
+      "restart": "Neu starten",
+      "snapshot": "Schnappschuss",
+      "fullscreen": "Vollbild",
+      "exitFullscreen": "Vollbild beenden",
+      "return": "Zurück",
+      "back": "Zur Website",
+      "included": "Enthaltene Open-Source-Software:",
+      "allHint": "Zufall — wechselt zwischen den vier gestalteten Farbpaletten",
+      "snapshotHint": "Ein PNG-Bild der Leinwand speichern",
+      "whatIsThis": "Was ist das?"
+    },
+    "information": {
+      "header": "Wunderschöne Bilder. Sofort Atmosphäre.",
+      "paragraphs": [
+        "Verzauberer ist ein kostenloser, schlanker Visualizer von Ethereal Artifacts, der überall für ein wenig Atmosphäre sorgt.",
+        "Öffne ihn im Browser, verbinde ihn mit einem Projektor oder lasse ihn auf einem Raspberry Pi laufen. Nutze ihn zu Hause, auf einer Party, in einer Lagerhalle oder an einem Ort, für den er vermutlich nie gedacht war.",
+        "Wähle ein Element, lass die Bilder automatisch wechseln oder probiere die Einstellungen aus."
+      ],
+      "dedicationBefore": "Für alle, die anderen helfen, ",
+      "dedicationEmphasis": "zu fühlen",
+      "dedicationAfter": ".\nWir sehen uns beim Rave."
+    }
+  },
+  "mn-Cyrl": {
+    "controls": {
+      "title": "Увдис шингээгч",
+      "credit": "Ethereal Artifacts бүтээл © 2026",
+      "license": "Лиценз",
+      "element": "Элемент",
+      "all": "Санамсаргүй",
+      "auto": "Автомат",
+      "earth": "Газар",
+      "fire": "Гал",
+      "water": "Ус",
+      "air": "Агаар",
+      "spell": "Echo of",
+      "begin": "Ид шид үзүүлэх",
+      "end": "Дуусгах",
+      "pause": "Түр зогсоох",
+      "resume": "Үргэлжлүүлэх",
+      "restart": "Дахин эхлүүлэх",
+      "snapshot": "Агшин зураг",
+      "fullscreen": "Дэлгэц дүүрэн",
+      "exitFullscreen": "Бүтэн дэлгэцээс гарах",
+      "return": "Буцах",
+      "back": "Сайт руу буцах",
+      "included": "Дараах нээлттэй эхийн програм багтсан:",
+      "allHint": "Санамсаргүй — зохиосон дөрвөн өнгөний палитрын хооронд сэлгэнэ",
+      "snapshotHint": "Зургаас нэг PNG кадр хадгалах",
+      "whatIsThis": "Энэ юу вэ?"
+    },
+    "information": {
+      "header": "Гоёмсог дүрслэл. Шууд уур амьсгал.",
+      "paragraphs": [
+        "Увдис шингээгч бол Ethereal Artifacts-ийн бүтээсэн, хаана ч багахан уур амьсгал нэмэх үнэгүй, хөнгөн дүрслэгч юм.",
+        "Хөтөч дээр нээгээд проекторт холбо, эсвэл Raspberry Pi дээр ажиллуул. Гэртээ, үдэшлэгт, агуулахад, эсвэл зориулаагүй газар ч ашиглаарай.",
+        "Элементээ сонго, дүрслэлийг өөрөө ээлжлүүл, эсвэл тохиргоог туршаарай."
+      ],
+      "dedicationBefore": "Бусдад ",
+      "dedicationEmphasis": "мэдрүүлэхэд",
+      "dedicationAfter": " тусалдаг хүмүүст зориулав.\nРейв дээр уулзъя."
+    }
+  },
+  "ar": {
+    "controls": {
+      "title": "مُلقي التعويذات",
+      "credit": "من Ethereal Artifacts © 2026",
+      "license": "الترخيص",
+      "element": "العنصر",
+      "all": "عشوائي",
+      "auto": "تلقائي",
+      "earth": "الأرض",
+      "fire": "النار",
+      "water": "الماء",
+      "air": "الهواء",
+      "spell": "Echo of",
+      "begin": "ألقِ السحر",
+      "end": "إنهاء",
+      "pause": "إيقاف مؤقت",
+      "resume": "استئناف",
+      "restart": "إعادة التشغيل",
+      "snapshot": "لقطة",
+      "fullscreen": "ملء الشاشة",
+      "exitFullscreen": "الخروج من ملء الشاشة",
+      "return": "عودة",
+      "back": "العودة إلى الموقع",
+      "included": "البرمجيات مفتوحة المصدر المضمّنة:",
+      "allHint": "عشوائي — ينتقل بين لوحات الألوان الأربع المصممة",
+      "snapshotHint": "احفظ إطارًا واحدًا من اللوحة بصيغة PNG",
+      "whatIsThis": "ما هذا؟"
+    },
+    "information": {
+      "header": "مرئيات جميلة. أجواء فورية.",
+      "paragraphs": [
+        "مُلقي التعويذات أداة عرض مرئي مجانية وخفيفة من Ethereal Artifacts، صُممت لتضيف بعض الأجواء أينما احتجت إليها.",
+        "افتحها في المتصفح، وصِلها بجهاز عرض، أو شغّلها على Raspberry Pi. استخدمها في المنزل أو في حفلة أو في مستودع، أو في مكان لم يكن من المفترض أن تصل إليه.",
+        "اختر عنصرًا، أو دع المرئيات تتبدل تلقائيًا، أو جرّب الإعدادات."
+      ],
+      "dedicationBefore": "إهداء إلى من يساعدون الآخرين على ",
+      "dedicationEmphasis": "الشعور",
+      "dedicationAfter": ".\nنلتقي في حفلة الرايف."
+    }
+  },
+  "ha": {
+    "controls": {
+      "title": "Mai sanya sihiri",
+      "credit": "na Ethereal Artifacts © 2026",
+      "license": "Lasisi",
+      "element": "Sinadari",
+      "all": "Bazuwar zaɓi",
+      "auto": "Kai tsaye",
+      "earth": "Ƙasa",
+      "fire": "Wuta",
+      "water": "Ruwa",
+      "air": "Iska",
+      "spell": "Echo of",
+      "begin": "Yi sihiri",
+      "end": "Ƙare",
+      "pause": "Dakatar na ɗan lokaci",
+      "resume": "Ci gaba",
+      "restart": "Sake farawa",
+      "snapshot": "Hoton allo",
+      "fullscreen": "Cika allo",
+      "exitFullscreen": "Fita daga cikar allo",
+      "return": "Komawa",
+      "back": "Komawa shafin yanar gizo",
+      "included": "An haɗa manhajar buɗaɗɗen tushe:",
+      "allHint": "Bazuwar zaɓi — yana sauyawa tsakanin palette huɗu da aka tsara",
+      "snapshotHint": "Ajiye hoto guda na zane a tsarin PNG",
+      "whatIsThis": "Menene wannan?"
+    },
+    "information": {
+      "header": "Hotuna masu kyau. Yanayi nan take.",
+      "paragraphs": [
+        "Mai sanya sihiri manhajar nuna zane ce kyauta kuma mai sauƙi daga Ethereal Artifacts, don ƙara ɗan yanayi a duk inda kake buƙata.",
+        "Buɗe ta a burauza, haɗa ta da na'urar haska hoto, ko gudanar da ita a kan Raspberry Pi. Yi amfani da ita a gida, wurin biki, sito, ko wani wurin da watakila ba a yi niyyar kai ta ba.",
+        "Zaɓi sinadari, bar hotunan su riƙa canzawa da kansu, ko gwada saitunan."
+      ],
+      "dedicationBefore": "An sadaukar ga masu taimaka wa wasu su ",
+      "dedicationEmphasis": "ji",
+      "dedicationAfter": ".\nMu haɗu a Rave."
+    }
+  },
+  "ps": {
+    "controls": {
+      "title": "جادو اچوونکی",
+      "credit": "د Ethereal Artifacts له‌خوا © 2026",
+      "license": "جواز",
+      "element": "عنصر",
+      "all": "ناټاکلی",
+      "auto": "اتومات",
+      "earth": "ځمکه",
+      "fire": "اور",
+      "water": "اوبه",
+      "air": "هوا",
+      "spell": "Echo of",
+      "begin": "جادو وکړئ",
+      "end": "پای",
+      "pause": "ځنډول",
+      "resume": "دوام ورکول",
+      "restart": "بیا پیلول",
+      "snapshot": "انځور",
+      "fullscreen": "بشپړه پرده",
+      "exitFullscreen": "له بشپړې پردې وتل",
+      "return": "بېرته",
+      "back": "وېب‌سایټ ته ستنېدل",
+      "included": "د خلاصې سرچینې شامل سافټویر:",
+      "allHint": "ناټاکلی — د څلورو جوړو شویو رنګ‌پاڼو ترمنځ بدلېږي",
+      "snapshotHint": "له کینوس څخه یو PNG چوکاټ خوندي کړئ",
+      "whatIsThis": "دا څه دي؟"
+    },
+    "information": {
+      "header": "ښکلي انځورونه. سمدستي فضا.",
+      "paragraphs": [
+        "جادو اچوونکی د Ethereal Artifacts وړیا او سپکه بصري وسیله ده، څو هر ځای ته چې اړتیا وي لږه فضا ورزیاته کړي.",
+        "په براوزر کې یې پرانیزئ، پروجکټر ورسره ونښلوئ، یا یې پر Raspberry Pi وچلوئ. په کور، محفل، ګودام، یا داسې ځای کې یې وکاروئ چې ښايي ورته نه وي جوړ شوی.",
+        "یو عنصر وټاکئ، انځورونه پرېږدئ چې پخپله واوړي، یا له امستنو سره لوبې وکړئ."
+      ],
+      "dedicationBefore": "هغو کسانو ته ډالۍ چې له نورو سره مرسته کوي څو ",
+      "dedicationEmphasis": "احساس وکړي",
+      "dedicationAfter": ".\nپه رېو کې به سره ګورو."
+    }
+  },
+  "ml": {
+    "controls": {
+      "title": "മന്ത്രം ചൊല്ലുന്നവൻ",
+      "credit": "Ethereal Artifacts-ന്റെ © 2026",
+      "license": "ലൈസൻസ്",
+      "element": "ഘടകം",
+      "all": "ക്രമരഹിതം",
+      "auto": "സ്വയം",
+      "earth": "ഭൂമി",
+      "fire": "അഗ്നി",
+      "water": "ജലം",
+      "air": "വായു",
+      "spell": "Echo of",
+      "begin": "മന്ത്രം പ്രയോഗിക്കുക",
+      "end": "അവസാനിപ്പിക്കുക",
+      "pause": "താൽക്കാലികമായി നിർത്തുക",
+      "resume": "തുടരുക",
+      "restart": "വീണ്ടും ആരംഭിക്കുക",
+      "snapshot": "സ്നാപ്ഷോട്ട്",
+      "fullscreen": "പൂർണ്ണസ്ക്രീൻ",
+      "exitFullscreen": "പൂർണ്ണസ്ക്രീനിൽ നിന്ന് പുറത്തുകടക്കുക",
+      "return": "മടങ്ങുക",
+      "back": "സൈറ്റിലേക്ക് മടങ്ങുക",
+      "included": "ഉൾപ്പെടുത്തിയ ഓപ്പൺ സോഴ്‌സ് സോഫ്റ്റ്‌വെയർ:",
+      "allHint": "ക്രമരഹിതം — രൂപകൽപ്പന ചെയ്ത നാല് വർണ്ണപാലറ്റുകൾക്കിടയിൽ മാറുന്നു",
+      "snapshotHint": "കാൻവാസിൽ നിന്ന് ഒരു PNG ഫ്രെയിം സംരക്ഷിക്കുക",
+      "whatIsThis": "ഇത് എന്താണ്?"
+    },
+    "information": {
+      "header": "മനോഹര ദൃശ്യങ്ങൾ. ക്ഷണനേരം കൊണ്ട് അന്തരീക്ഷം.",
+      "paragraphs": [
+        "മന്ത്രം ചൊല്ലുന്നവൻ, Ethereal Artifacts ഒരുക്കിയ സൗജന്യവും ഭാരം കുറഞ്ഞതുമായ വിഷ്വലൈസറാണ്; നിങ്ങൾക്ക് ആവശ്യമുള്ളിടത്തെല്ലാം അല്പം അന്തരീക്ഷം സൃഷ്ടിക്കാൻ ഇത് സഹായിക്കുന്നു.",
+        "ബ്രൗസറിൽ തുറക്കുക, പ്രൊജക്ടറുമായി ബന്ധിപ്പിക്കുക, അല്ലെങ്കിൽ Raspberry Pi-യിൽ പ്രവർത്തിപ്പിക്കുക. വീട്ടിലോ പാർട്ടിയിലോ ഗോഡൗണിലോ, ഒരുപക്ഷേ ഇതിന് ഉദ്ദേശിക്കാത്ത മറ്റേതെങ്കിലും ഇടത്തോ ഉപയോഗിക്കാം.",
+        "ഒരു ഘടകം തിരഞ്ഞെടുക്കുക, ദൃശ്യങ്ങൾ തനിയെ മാറാൻ വിടുക, അല്ലെങ്കിൽ ക്രമീകരണങ്ങൾ പരീക്ഷിക്കുക."
+      ],
+      "dedicationBefore": "മറ്റുള്ളവരെ ",
+      "dedicationEmphasis": "വികാരം അനുഭവിക്കാൻ",
+      "dedicationAfter": " സഹായിക്കുന്നവർക്ക് സമർപ്പിക്കുന്നു.\nറേവ് പാർട്ടിയിൽ കാണാം."
+    }
+  },
+  "ur": {
+    "controls": {
+      "title": "فسوں گر",
+      "credit": "Ethereal Artifacts کی جانب سے © 2026",
+      "license": "لائسنس",
+      "element": "عنصر",
+      "all": "بے ترتیب",
+      "auto": "خودکار",
+      "earth": "زمین",
+      "fire": "آگ",
+      "water": "پانی",
+      "air": "ہوا",
+      "spell": "Echo of",
+      "begin": "جادو کریں",
+      "end": "اختتام",
+      "pause": "وقفہ",
+      "resume": "جاری رکھیں",
+      "restart": "دوبارہ شروع کریں",
+      "snapshot": "اسنیپ شاٹ",
+      "fullscreen": "پوری اسکرین",
+      "exitFullscreen": "پوری اسکرین سے نکلیں",
+      "return": "واپس",
+      "back": "سائٹ پر واپس جائیں",
+      "included": "شامل اوپن سورس سافٹ ویئر:",
+      "allHint": "بے ترتیب — چار تیار کردہ رنگوں کے مجموعوں کے درمیان بدلتا ہے",
+      "snapshotHint": "کینوس سے ایک PNG فریم محفوظ کریں",
+      "whatIsThis": "یہ کیا ہے؟"
+    },
+    "information": {
+      "header": "خوبصورت مناظر۔ فوراً ماحول۔",
+      "paragraphs": [
+        "فسوں گر، Ethereal Artifacts کا مفت اور ہلکا پھلکا ویژولائزر ہے، جو جہاں چاہیں تھوڑا سا ماحول بنانے کے لیے تیار کیا گیا ہے۔",
+        "اسے براؤزر میں کھولیں، پروجیکٹر سے جوڑیں، یا Raspberry Pi پر چلائیں۔ اسے گھر، پارٹی، گودام، یا ایسی جگہ استعمال کریں جہاں شاید اسے ہونا نہیں چاہیے تھا۔",
+        "کوئی عنصر منتخب کریں، مناظر کو خود بدلنے دیں، یا ترتیبات آزمائیں۔"
+      ],
+      "dedicationBefore": "ان لوگوں کے نام جو دوسروں کو ",
+      "dedicationEmphasis": "محسوس کرنے",
+      "dedicationAfter": " میں مدد دیتے ہیں۔\nریو پارٹی میں ملتے ہیں۔"
+    }
+  },
+  "zh-Hant": {
+    "controls": {
+      "title": "附魔者",
+      "credit": "Ethereal Artifacts 製作 © 2026",
+      "license": "授權條款",
+      "element": "元素",
+      "all": "隨機",
+      "auto": "自動",
+      "earth": "土",
+      "fire": "火",
+      "water": "水",
+      "air": "風",
+      "spell": "Echo of",
+      "begin": "施展魔法",
+      "end": "結束",
+      "pause": "暫停",
+      "resume": "繼續",
+      "restart": "重新開始",
+      "snapshot": "擷取畫面",
+      "fullscreen": "全螢幕",
+      "exitFullscreen": "退出全螢幕",
+      "return": "返回",
+      "back": "返回網站",
+      "included": "內含的開源軟體：",
+      "allHint": "隨機 — 在四種設計好的調色盤之間切換",
+      "snapshotHint": "將畫布中的單一畫格儲存為 PNG",
+      "whatIsThis": "這是什麼？"
+    },
+    "information": {
+      "header": "絕美視覺，瞬間營造氛圍。",
+      "paragraphs": [
+        "附魔者 是 Ethereal Artifacts 推出的免費輕量視覺化工具，讓你在任何需要的地方增添一點氛圍。",
+        "在瀏覽器中開啟、連接投影機，或在 Raspberry Pi 上執行。無論是在家、派對、倉庫，甚至某個可能不該出現的地方，都能使用。",
+        "選擇一種元素，讓視覺效果自動輪播，或親自調整設定。"
+      ],
+      "dedicationBefore": "獻給那些幫助他人 ",
+      "dedicationEmphasis": "感受",
+      "dedicationAfter": " 的人。\n銳舞派對見。"
+    }
+  },
+  "hr": {
+    "controls": {
+      "title": "Onaj koji začarava",
+      "credit": "izradio Ethereal Artifacts © 2026",
+      "license": "Licenca",
+      "element": "Element",
+      "all": "Nasumično",
+      "auto": "Automatski",
+      "earth": "Zemlja",
+      "fire": "Vatra",
+      "water": "Voda",
+      "air": "Zrak",
+      "spell": "Echo of",
+      "begin": "Baci čaroliju",
+      "end": "Završi",
+      "pause": "Pauza",
+      "resume": "Nastavi",
+      "restart": "Pokreni iznova",
+      "snapshot": "Snimka",
+      "fullscreen": "Cijeli zaslon",
+      "exitFullscreen": "Izađi iz cijelog zaslona",
+      "return": "Natrag",
+      "back": "Natrag na stranicu",
+      "included": "Uključeni softver otvorenog koda:",
+      "allHint": "Nasumično — izmjenjuje četiri osmišljene palete",
+      "snapshotHint": "Spremi jedan PNG kadar s platna",
+      "whatIsThis": "Što je ovo?"
+    },
+    "information": {
+      "header": "Predivni prizori. Trenutni ugođaj.",
+      "paragraphs": [
+        "Onaj koji začarava je besplatan, lagan vizualizator tvrtke Ethereal Artifacts, stvoren da unese malo ugođaja gdje god vam zatreba.",
+        "Otvorite ga u pregledniku, povežite s projektorom ili pokrenite na Raspberry Pi uređaju. Koristite ga kod kuće, na zabavi, u skladištu ili negdje gdje vjerojatno nije trebao završiti.",
+        "Odaberite element, prepustite prizorima automatsku izmjenu ili isprobajte postavke."
+      ],
+      "dedicationBefore": "Posvećeno onima koji drugima pomažu ",
+      "dedicationEmphasis": "osjećati",
+      "dedicationAfter": ".\nVidimo se na raveu."
+    }
+  },
+  "nl": {
+    "controls": {
+      "title": "Betoveraar",
+      "credit": "door Ethereal Artifacts © 2026",
+      "license": "Licentie",
+      "element": "Element",
+      "all": "Willekeurig",
+      "auto": "Automatisch",
+      "earth": "Aarde",
+      "fire": "Vuur",
+      "water": "Water",
+      "air": "Lucht",
+      "spell": "Echo of",
+      "begin": "Spreek de betovering uit",
+      "end": "Beëindigen",
+      "pause": "Pauzeren",
+      "resume": "Hervatten",
+      "restart": "Opnieuw starten",
+      "snapshot": "Momentopname",
+      "fullscreen": "Volledig scherm",
+      "exitFullscreen": "Volledig scherm verlaten",
+      "return": "Terug",
+      "back": "Terug naar de site",
+      "included": "Meegeleverde opensourcesoftware:",
+      "allHint": "Willekeurig — wisselt tussen de vier ontworpen kleurenpaletten",
+      "snapshotHint": "Sla één PNG-frame van het canvas op",
+      "whatIsThis": "Wat is dit?"
+    },
+    "information": {
+      "header": "Prachtige beelden. Meteen sfeer.",
+      "paragraphs": [
+        "Betoveraar is een gratis, lichte visualizer van Ethereal Artifacts, gemaakt om overal waar je dat wilt wat sfeer toe te voegen.",
+        "Open hem in een browser, sluit hem aan op een projector of voer hem uit op een Raspberry Pi. Gebruik hem thuis, op een feest, in een magazijn of ergens waar hij misschien niet voor bedoeld was.",
+        "Kies een element, laat de beelden vanzelf wisselen of speel met de instellingen."
+      ],
+      "dedicationBefore": "Opgedragen aan iedereen die anderen helpt om ",
+      "dedicationEmphasis": "te voelen",
+      "dedicationAfter": ".\nTot ziens op de rave."
+    }
+  },
+  "ta": {
+    "controls": {
+      "title": "மந்திரம் இடுபவர்",
+      "credit": "Ethereal Artifacts வழங்கியது © 2026",
+      "license": "உரிமம்",
+      "element": "கூறு",
+      "all": "சீரற்றது",
+      "auto": "தானியங்கு",
+      "earth": "நிலம்",
+      "fire": "நெருப்பு",
+      "water": "நீர்",
+      "air": "காற்று",
+      "spell": "Echo of",
+      "begin": "மந்திரம் செய்",
+      "end": "முடி",
+      "pause": "இடைநிறுத்து",
+      "resume": "தொடர்",
+      "restart": "மீண்டும் தொடங்கு",
+      "snapshot": "நிலைப்படம்",
+      "fullscreen": "முழுத்திரை",
+      "exitFullscreen": "முழுத்திரையிலிருந்து வெளியேறு",
+      "return": "திரும்பு",
+      "back": "தளத்திற்குத் திரும்பு",
+      "included": "சேர்க்கப்பட்ட திறந்த மூல மென்பொருள்:",
+      "allHint": "சீரற்றது — வடிவமைக்கப்பட்ட நான்கு வண்ணத் தொகுப்புகளுக்கு இடையே மாறும்",
+      "snapshotHint": "கேன்வாஸிலிருந்து ஒரு PNG சட்டகத்தைச் சேமி",
+      "whatIsThis": "இது என்ன?"
+    },
+    "information": {
+      "header": "அழகிய காட்சிகள். உடனடி சூழல்.",
+      "paragraphs": [
+        "மந்திரம் இடுபவர் என்பது Ethereal Artifacts உருவாக்கிய இலவச, எளிய காட்சியமைப்புக் கருவி; உங்களுக்குத் தேவையான இடமெல்லாம் சிறிது சூழலைச் சேர்க்க இது உதவும்.",
+        "உலாவியில் திறக்கவும், புரொஜெக்டருடன் இணைக்கவும் அல்லது Raspberry Pi-யில் இயக்கவும். வீட்டில், விருந்தில், கிடங்கில் அல்லது இதற்காக நினைக்கப்படாத இடத்திலும் பயன்படுத்துங்கள்.",
+        "ஒரு கூறைத் தேர்ந்தெடுக்கவும், காட்சிகள் தானாகச் சுழல விடவும் அல்லது அமைப்புகளை முயற்சிக்கவும்."
+      ],
+      "dedicationBefore": "மற்றவர்கள் ",
+      "dedicationEmphasis": "உணர",
+      "dedicationAfter": " உதவுபவர்களுக்கு அர்ப்பணம்.\nரேவ் நிகழ்ச்சியில் சந்திப்போம்."
+    }
+  },
+  "hi": {
+    "controls": {
+      "title": "मोहित करने वाला",
+      "credit": "Ethereal Artifacts की ओर से © 2026",
+      "license": "लाइसेंस",
+      "element": "तत्व",
+      "all": "यादृच्छिक",
+      "auto": "स्वचालित",
+      "earth": "पृथ्वी",
+      "fire": "अग्नि",
+      "water": "जल",
+      "air": "वायु",
+      "spell": "Echo of",
+      "begin": "जादू करें",
+      "end": "समाप्त करें",
+      "pause": "रोकें",
+      "resume": "जारी रखें",
+      "restart": "फिर शुरू करें",
+      "snapshot": "स्नैपशॉट",
+      "fullscreen": "पूर्ण स्क्रीन",
+      "exitFullscreen": "पूर्ण स्क्रीन से बाहर निकलें",
+      "return": "वापस",
+      "back": "साइट पर लौटें",
+      "included": "शामिल ओपन-सोर्स सॉफ़्टवेयर:",
+      "allHint": "यादृच्छिक — चार तैयार रंग-पैलेट के बीच बदलता है",
+      "snapshotHint": "कैनवास से एक PNG फ़्रेम सहेजें",
+      "whatIsThis": "यह क्या है?"
+    },
+    "information": {
+      "header": "खूबसूरत दृश्य। तुरंत माहौल।",
+      "paragraphs": [
+        "मोहित करने वाला, Ethereal Artifacts का मुफ़्त और हल्का विज़ुअलाइज़र है, जिसे जहाँ भी ज़रूरत हो थोड़ा माहौल जोड़ने के लिए बनाया गया है।",
+        "इसे ब्राउज़र में खोलें, प्रोजेक्टर से जोड़ें या Raspberry Pi पर चलाएँ। घर पर, पार्टी में, गोदाम में या ऐसी जगह इस्तेमाल करें जहाँ शायद इसका पहुँचना तय नहीं था।",
+        "कोई तत्व चुनें, दृश्यों को अपने आप बदलने दें या सेटिंग्स आज़माएँ।"
+      ],
+      "dedicationBefore": "उन लोगों को समर्पित जो दूसरों को ",
+      "dedicationEmphasis": "महसूस करने",
+      "dedicationAfter": " में मदद करते हैं।\nरेव पार्टी में मिलते हैं।"
+    }
+  },
+  "te": {
+    "controls": {
+      "title": "మంత్రం వేసేవాడు",
+      "credit": "Ethereal Artifacts వారి నుండి © 2026",
+      "license": "లైసెన్స్",
+      "element": "మూలకం",
+      "all": "యాదృచ్ఛికం",
+      "auto": "స్వయంచాలకం",
+      "earth": "భూమి",
+      "fire": "అగ్ని",
+      "water": "నీరు",
+      "air": "గాలి",
+      "spell": "Echo of",
+      "begin": "మంత్రం వేయండి",
+      "end": "ముగించు",
+      "pause": "విరామం",
+      "resume": "కొనసాగించు",
+      "restart": "మళ్లీ ప్రారంభించు",
+      "snapshot": "స్నాప్‌షాట్",
+      "fullscreen": "పూర్తి తెర",
+      "exitFullscreen": "పూర్తి తెర నుంచి నిష్క్రమించు",
+      "return": "వెనక్కి",
+      "back": "సైట్‌కు తిరిగి వెళ్లు",
+      "included": "చేర్చిన ఓపెన్ సోర్స్ సాఫ్ట్‌వేర్:",
+      "allHint": "యాదృచ్ఛికం — రూపొందించిన నాలుగు రంగుల సముదాయాల మధ్య మారుతుంది",
+      "snapshotHint": "క్యాన్వాస్‌లోని ఒక PNG ఫ్రేమ్‌ను భద్రపరచండి",
+      "whatIsThis": "ఇది ఏమిటి?"
+    },
+    "information": {
+      "header": "అందమైన దృశ్యాలు. తక్షణ వాతావరణం.",
+      "paragraphs": [
+        "మంత్రం వేసేవాడు అనేది Ethereal Artifacts రూపొందించిన ఉచిత, తేలికైన విజువలైజర్; మీకు అవసరమైన ఎక్కడైనా కొంత వాతావరణాన్ని అందించడానికి ఇది తయారైంది.",
+        "దీన్ని బ్రౌజర్‌లో తెరవండి, ప్రొజెక్టర్‌కు కనెక్ట్ చేయండి లేదా Raspberry Piపై నడపండి. ఇంట్లో, పార్టీలో, గోదాములో లేదా బహుశా దీని కోసం ఉద్దేశించని చోట కూడా ఉపయోగించండి.",
+        "ఒక మూలకాన్ని ఎంచుకోండి, దృశ్యాలు వాటంతట అవే మారనివ్వండి లేదా సెట్టింగ్‌లను ప్రయత్నించండి."
+      ],
+      "dedicationBefore": "ఇతరులకు ",
+      "dedicationEmphasis": "అనుభూతి చెందేలా",
+      "dedicationAfter": " సహాయపడే వారికి అంకితం.\nరేవ్ పార్టీలో కలుద్దాం."
+    }
+  },
+  "ne": {
+    "controls": {
+      "title": "मोहनी लगाउने व्यक्ति",
+      "credit": "Ethereal Artifacts द्वारा © 2026",
+      "license": "इजाजतपत्र",
+      "element": "तत्त्व",
+      "all": "अनियमित",
+      "auto": "स्वचालित",
+      "earth": "पृथ्वी",
+      "fire": "आगो",
+      "water": "पानी",
+      "air": "हावा",
+      "spell": "Echo of",
+      "begin": "जादू गर्नुहोस्",
+      "end": "अन्त्य",
+      "pause": "रोक्नुहोस्",
+      "resume": "जारी राख्नुहोस्",
+      "restart": "फेरि सुरु गर्नुहोस्",
+      "snapshot": "स्न्यापसट",
+      "fullscreen": "पूरा पर्दा",
+      "exitFullscreen": "पूरा पर्दाबाट बाहिरिनुहोस्",
+      "return": "फर्कनुहोस्",
+      "back": "वेबसाइटमा फर्कनुहोस्",
+      "included": "समावेश खुला स्रोत सफ्टवेयर:",
+      "allHint": "अनियमित — तयार गरिएका चार रङ प्यालेटबीच बदलिन्छ",
+      "snapshotHint": "क्यानभासको एउटा PNG फ्रेम सुरक्षित गर्नुहोस्",
+      "whatIsThis": "यो के हो?"
+    },
+    "information": {
+      "header": "सुन्दर दृश्य। तुरुन्तै वातावरण।",
+      "paragraphs": [
+        "मोहनी लगाउने व्यक्ति Ethereal Artifacts द्वारा बनाइएको निःशुल्क र हलुका भिजुअलाइजर हो, जसले तपाईंलाई चाहिएको जुनसुकै ठाउँमा अलिकति वातावरण थप्छ।",
+        "यसलाई ब्राउजरमा खोल्नुहोस्, प्रोजेक्टरमा जोड्नुहोस् वा Raspberry Pi मा चलाउनुहोस्। घरमा, पार्टीमा, गोदाममा वा सायद यसका लागि नसोचिएको कुनै ठाउँमा प्रयोग गर्नुहोस्।",
+        "एउटा तत्त्व छान्नुहोस्, दृश्यहरू आफैँ बदलिन दिनुहोस् वा सेटिङहरू चलाएर हेर्नुहोस्।"
+      ],
+      "dedicationBefore": "अरूलाई ",
+      "dedicationEmphasis": "अनुभूति गर्न",
+      "dedicationAfter": " मद्दत गर्नेहरूलाई समर्पित।\nरेभ पार्टीमा भेटौँला।"
+    }
+  },
+  "af": {
+    "controls": {
+      "title": "Betoweraar",
+      "credit": "deur Ethereal Artifacts © 2026",
+      "license": "Lisensie",
+      "element": "Element",
+      "all": "Ewekansig",
+      "auto": "Outomaties",
+      "earth": "Aarde",
+      "fire": "Vuur",
+      "water": "Water",
+      "air": "Lug",
+      "spell": "Echo of",
+      "begin": "Spreek betowering uit",
+      "end": "Eindig",
+      "pause": "Laat wag",
+      "resume": "Hervat",
+      "restart": "Herbegin",
+      "snapshot": "Kiekie",
+      "fullscreen": "Volskerm",
+      "exitFullscreen": "Verlaat volskerm",
+      "return": "Terug",
+      "back": "Terug na die webwerf",
+      "included": "Ingeslote oopbronsagteware:",
+      "allHint": "Ewekansig — wissel tussen die vier ontwerpte kleurpalette",
+      "snapshotHint": "Stoor een PNG-raam uit die doek",
+      "whatIsThis": "Wat is dit?"
+    },
+    "information": {
+      "header": "Pragtige beelde. Onmiddellike atmosfeer.",
+      "paragraphs": [
+        "Betoweraar is ’n gratis, liggewig visualiseerder van Ethereal Artifacts, gemaak om ’n bietjie atmosfeer te skep waar jy dit ook al nodig het.",
+        "Maak dit in ’n blaaier oop, koppel dit aan ’n projektor of laat dit op ’n Raspberry Pi loop. Gebruik dit tuis, by ’n partytjie, in ’n pakhuis of êrens waar dit dalk nie bedoel was om te wees nie.",
+        "Kies ’n element, laat die beelde vanself wissel of speel met die instellings."
+      ],
+      "dedicationBefore": "Opgedra aan dié wat ander help om ",
+      "dedicationEmphasis": "te voel",
+      "dedicationAfter": ".\nSien jou by die Rave."
+    }
+  },
+  "id": {
+    "controls": {
+      "title": "Perapal mantra",
+      "credit": "oleh Ethereal Artifacts © 2026",
+      "license": "Lisensi",
+      "element": "Elemen",
+      "all": "Acak",
+      "auto": "Otomatis",
+      "earth": "Bumi",
+      "fire": "Api",
+      "water": "Air",
+      "air": "Udara",
+      "spell": "Echo of",
+      "begin": "Rapalkan mantra",
+      "end": "Akhiri",
+      "pause": "Jeda",
+      "resume": "Lanjutkan",
+      "restart": "Mulai ulang",
+      "snapshot": "Cuplikan",
+      "fullscreen": "Layar penuh",
+      "exitFullscreen": "Keluar dari layar penuh",
+      "return": "Kembali",
+      "back": "Kembali ke Situs",
+      "included": "Perangkat lunak sumber terbuka yang disertakan:",
+      "allHint": "Acak — berganti di antara empat palet yang dirancang",
+      "snapshotHint": "Simpan satu bingkai PNG dari kanvas",
+      "whatIsThis": "Apa ini?"
+    },
+    "information": {
+      "header": "Visual yang indah. Suasana seketika.",
+      "paragraphs": [
+        "Perapal mantra adalah visualizer gratis dan ringan dari Ethereal Artifacts, dibuat untuk menghadirkan sedikit suasana di mana pun Anda membutuhkannya.",
+        "Buka di browser, sambungkan ke proyektor, atau jalankan di Raspberry Pi. Gunakan di rumah, di pesta, di gudang, atau di tempat yang mungkin bukan tujuannya.",
+        "Pilih elemen, biarkan visual berganti otomatis, atau coba berbagai pengaturan."
+      ],
+      "dedicationBefore": "Didedikasikan bagi mereka yang membantu orang lain ",
+      "dedicationEmphasis": "merasakan",
+      "dedicationAfter": ".\nSampai jumpa di Rave."
+    }
+  },
+  "si": {
+    "controls": {
+      "title": "මන්ත්‍ර යොදන්නා",
+      "credit": "Ethereal Artifacts වෙතින් © 2026",
+      "license": "බලපත්‍රය",
+      "element": "මූලද්‍රව්‍යය",
+      "all": "අහඹු",
+      "auto": "ස්වයංක්‍රීය",
+      "earth": "පෘථිවිය",
+      "fire": "ගින්න",
+      "water": "ජලය",
+      "air": "වාතය",
+      "spell": "Echo of",
+      "begin": "මන්ත්‍රය යොදන්න",
+      "end": "අවසන්",
+      "pause": "විරාමය",
+      "resume": "නැවත අරඹන්න",
+      "restart": "යළි අරඹන්න",
+      "snapshot": "ක්ෂණික රූපය",
+      "fullscreen": "පූර්ණ තිරය",
+      "exitFullscreen": "පූර්ණ තිරයෙන් පිටවන්න",
+      "return": "ආපසු",
+      "back": "වෙබ් අඩවියට ආපසු යන්න",
+      "included": "ඇතුළත් විවෘත මූලාශ්‍ර මෘදුකාංගය:",
+      "allHint": "අහඹු — සැලසුම් කළ වර්ණ පුවරු හතර අතර මාරු වේ",
+      "snapshotHint": "කැන්වසයෙන් එක් PNG රාමුවක් සුරකින්න",
+      "whatIsThis": "මේ මොකක්ද?"
+    },
+    "information": {
+      "header": "අලංකාර දසුන්. ක්ෂණික වාතාවරණය.",
+      "paragraphs": [
+        "මන්ත්‍ර යොදන්නා යනු ඔබට අවශ්‍ය ඕනෑම තැනක සුළු වාතාවරණයක් එක් කිරීමට Ethereal Artifacts නිර්මාණය කළ නොමිලේ, සැහැල්ලු දෘශ්‍යකරණයකි.",
+        "බ්‍රවුසරයක විවෘත කර ප්‍රොජෙක්ටරයකට සම්බන්ධ කරන්න, නැතහොත් Raspberry Pi මත ධාවනය කරන්න. නිවසේ, සාදයක, ගබඩාවක හෝ එය නොතිබිය යුතු තැනක භාවිත කරන්න.",
+        "මූලද්‍රව්‍යයක් තෝරන්න, දර්ශන ස්වයංක්‍රීයව මාරුවීමට ඉඩ දෙන්න, නැතහොත් සැකසුම් අත්හදා බලන්න."
+      ],
+      "dedicationBefore": "අන් අයට ",
+      "dedicationEmphasis": "හැඟීම් දැනීමට",
+      "dedicationAfter": " උදව් කරන අයට පුද කරයි.\nරේව් එකේදී හමුවෙමු."
+    }
+  },
+  "sq": {
+    "controls": {
+      "title": "Magjepsësi",
+      "credit": "nga Ethereal Artifacts © 2026",
+      "license": "Licenca",
+      "element": "Elementi",
+      "all": "Rastësisht",
+      "auto": "Automatikisht",
+      "earth": "Toka",
+      "fire": "Zjarri",
+      "water": "Uji",
+      "air": "Ajri",
+      "spell": "Echo of",
+      "begin": "Bëj magji",
+      "end": "Përfundo",
+      "pause": "Ndalo përkohësisht",
+      "resume": "Vazhdo",
+      "restart": "Rinis",
+      "snapshot": "Pamje e çastit",
+      "fullscreen": "Ekran i plotë",
+      "exitFullscreen": "Dil nga ekrani i plotë",
+      "return": "Kthehu",
+      "back": "Kthehu te faqja",
+      "included": "Softuer me burim të hapur i përfshirë:",
+      "allHint": "Rastësisht — kalon mes katër paletave të krijuara",
+      "snapshotHint": "Ruaj një kuadër PNG nga kanavaca",
+      "whatIsThis": "Çfarë është kjo?"
+    },
+    "information": {
+      "header": "Pamje të bukura. Atmosferë e menjëhershme.",
+      "paragraphs": [
+        "Magjepsësi është një vizualizues falas dhe i lehtë nga Ethereal Artifacts, krijuar për të sjellë pak atmosferë kudo që të duhet.",
+        "Hape në shfletues, lidhe me projektor ose ekzekutoje në Raspberry Pi. Përdore në shtëpi, në festë, në magazinë apo në një vend ku ndoshta nuk ishte menduar të shkonte.",
+        "Zgjidh një element, lëri pamjet të ndërrohen vetë ose provo cilësimet."
+      ],
+      "dedicationBefore": "Kushtuar atyre që i ndihmojnë të tjerët të ",
+      "dedicationEmphasis": "ndiejnë",
+      "dedicationAfter": ".\nShihemi në Rave."
+    }
+  },
+  "bs": {
+    "controls": {
+      "title": "Onaj koji začarava",
+      "credit": "izradio Ethereal Artifacts © 2026",
+      "license": "Licenca",
+      "element": "Element",
+      "all": "Nasumično",
+      "auto": "Automatski",
+      "earth": "Zemlja",
+      "fire": "Vatra",
+      "water": "Voda",
+      "air": "Zrak",
+      "spell": "Echo of",
+      "begin": "Baci čaroliju",
+      "end": "Završi",
+      "pause": "Pauziraj",
+      "resume": "Nastavi",
+      "restart": "Pokreni ponovo",
+      "snapshot": "Snimak",
+      "fullscreen": "Cijeli ekran",
+      "exitFullscreen": "Izađi iz cijelog ekrana",
+      "return": "Nazad",
+      "back": "Nazad na stranicu",
+      "included": "Uključeni softver otvorenog koda:",
+      "allHint": "Nasumično — mijenja četiri osmišljene palete",
+      "snapshotHint": "Sačuvaj jedan PNG kadar s platna",
+      "whatIsThis": "Šta je ovo?"
+    },
+    "information": {
+      "header": "Predivni prizori. Trenutni ugođaj.",
+      "paragraphs": [
+        "Onaj koji začarava je besplatan, lagan vizualizator kompanije Ethereal Artifacts, napravljen da unese malo ugođaja gdje god vam zatreba.",
+        "Otvorite ga u pregledniku, povežite s projektorom ili pokrenite na Raspberry Pi uređaju. Koristite ga kod kuće, na zabavi, u skladištu ili negdje gdje vjerovatno nije trebao završiti.",
+        "Odaberite element, prepustite prizorima automatsku izmjenu ili isprobajte postavke."
+      ],
+      "dedicationBefore": "Posvećeno onima koji drugima pomažu ",
+      "dedicationEmphasis": "osjećati",
+      "dedicationAfter": ".\nVidimo se na raveu."
+    }
+  },
+  "lv": {
+    "controls": {
+      "title": "Apbūrējs",
+      "credit": "Ethereal Artifacts veidots © 2026",
+      "license": "Licence",
+      "element": "Elements",
+      "all": "Nejauši",
+      "auto": "Automātiski",
+      "earth": "Zeme",
+      "fire": "Uguns",
+      "water": "Ūdens",
+      "air": "Gaiss",
+      "spell": "Echo of",
+      "begin": "Izteikt burvestību",
+      "end": "Beigt",
+      "pause": "Pauzēt",
+      "resume": "Turpināt",
+      "restart": "Sākt no jauna",
+      "snapshot": "Momentuzņēmums",
+      "fullscreen": "Pilnekrāns",
+      "exitFullscreen": "Iziet no pilnekrāna",
+      "return": "Atpakaļ",
+      "back": "Atpakaļ uz vietni",
+      "included": "Iekļautā atvērtā pirmkoda programmatūra:",
+      "allHint": "Nejauši — pārslēdzas starp četrām veidotām krāsu paletēm",
+      "snapshotHint": "Saglabāt vienu PNG kadru no audekla",
+      "whatIsThis": "Kas tas ir?"
+    },
+    "information": {
+      "header": "Skaisti vizuālie efekti. Tūlītēja atmosfēra.",
+      "paragraphs": [
+        "Apbūrējs ir Ethereal Artifacts bezmaksas un viegls vizualizētājs, kas radīts, lai ienestu mazliet atmosfēras ikvienā vietā, kur tā vajadzīga.",
+        "Atveriet to pārlūkā, pievienojiet projektoram vai palaidiet Raspberry Pi. Izmantojiet mājās, ballītē, noliktavā vai vietā, kur tam, iespējams, nemaz nebija paredzēts nonākt.",
+        "Izvēlieties elementu, ļaujiet vizuālajiem efektiem mainīties pašiem vai izmēģiniet iestatījumus."
+      ],
+      "dedicationBefore": "Veltīts tiem, kuri palīdz citiem ",
+      "dedicationEmphasis": "sajust",
+      "dedicationAfter": ".\nTiekamies reivā."
+    }
+  },
+  "pl": {
+    "controls": {
+      "title": "Zaklinacz",
+      "credit": "od Ethereal Artifacts © 2026",
+      "license": "Licencja",
+      "element": "Żywioł",
+      "all": "Losowo",
+      "auto": "Automatycznie",
+      "earth": "Ziemia",
+      "fire": "Ogień",
+      "water": "Woda",
+      "air": "Powietrze",
+      "spell": "Echo of",
+      "begin": "Rzuć zaklęcie",
+      "end": "Zakończ",
+      "pause": "Wstrzymaj",
+      "resume": "Wznów",
+      "restart": "Uruchom ponownie",
+      "snapshot": "Zrzut obrazu",
+      "fullscreen": "Pełny ekran",
+      "exitFullscreen": "Zamknij pełny ekran",
+      "return": "Wróć",
+      "back": "Wróć do witryny",
+      "included": "Dołączone oprogramowanie open source:",
+      "allHint": "Losowo — przełącza między czterema zaprojektowanymi paletami",
+      "snapshotHint": "Zapisz jedną klatkę z kanwy jako PNG",
+      "whatIsThis": "Co to jest?"
+    },
+    "information": {
+      "header": "Piękne obrazy. Natychmiastowy nastrój.",
+      "paragraphs": [
+        "Zaklinacz to darmowy, lekki wizualizator od Ethereal Artifacts, który wnosi odrobinę atmosfery wszędzie tam, gdzie jej potrzebujesz.",
+        "Otwórz go w przeglądarce, podłącz do projektora albo uruchom na Raspberry Pi. Używaj go w domu, na imprezie, w magazynie lub w miejscu, do którego chyba nie miał trafić.",
+        "Wybierz żywioł, pozwól obrazom zmieniać się automatycznie albo pobaw się ustawieniami."
+      ],
+      "dedicationBefore": "Dla tych, którzy pomagają innym ",
+      "dedicationEmphasis": "poczuć",
+      "dedicationAfter": ".\nDo zobaczenia na rave’ie."
+    }
+  },
+  "ru": {
+    "controls": {
+      "title": "Тот, кто зачаровывает",
+      "credit": "от Ethereal Artifacts © 2026",
+      "license": "Лицензия",
+      "element": "Элемент",
+      "all": "Случайно",
+      "auto": "Авто",
+      "earth": "Земля",
+      "fire": "Огонь",
+      "water": "Вода",
+      "air": "Воздух",
+      "spell": "Echo of",
+      "begin": "Наложить чары",
+      "end": "Завершить",
+      "pause": "Пауза",
+      "resume": "Продолжить",
+      "restart": "Начать заново",
+      "snapshot": "Снимок",
+      "fullscreen": "На весь экран",
+      "exitFullscreen": "Выйти из полного экрана",
+      "return": "Назад",
+      "back": "Вернуться на сайт",
+      "included": "Включённое ПО с открытым исходным кодом:",
+      "allHint": "Случайно — переключает между четырьмя авторскими палитрами",
+      "snapshotHint": "Сохранить один кадр холста в формате PNG",
+      "whatIsThis": "Что это?"
+    },
+    "information": {
+      "header": "Красивые образы. Атмосфера сразу.",
+      "paragraphs": [
+        "Тот, кто зачаровывает — бесплатный лёгкий визуализатор от Ethereal Artifacts, который добавит немного атмосферы там, где вам это нужно.",
+        "Откройте его в браузере, подключите к проектору или запустите на Raspberry Pi. Используйте дома, на вечеринке, на складе или в месте, для которого он, возможно, не предназначался.",
+        "Выберите элемент, позвольте визуальным сценам меняться автоматически или поиграйте с настройками."
+      ],
+      "dedicationBefore": "Посвящается тем, кто помогает другим ",
+      "dedicationEmphasis": "чувствовать",
+      "dedicationAfter": ".\nУвидимся на рейве."
+    }
+  },
+  "sv": {
+    "controls": {
+      "title": "Förtrollaren",
+      "credit": "av Ethereal Artifacts © 2026",
+      "license": "Licens",
+      "element": "Element",
+      "all": "Slumpmässigt",
+      "auto": "Automatiskt",
+      "earth": "Jord",
+      "fire": "Eld",
+      "water": "Vatten",
+      "air": "Luft",
+      "spell": "Echo of",
+      "begin": "Kasta förtrollningen",
+      "end": "Avsluta",
+      "pause": "Pausa",
+      "resume": "Fortsätt",
+      "restart": "Börja om",
+      "snapshot": "Ögonblicksbild",
+      "fullscreen": "Helskärm",
+      "exitFullscreen": "Avsluta helskärm",
+      "return": "Tillbaka",
+      "back": "Tillbaka till webbplatsen",
+      "included": "Programvara med öppen källkod som ingår:",
+      "allHint": "Slumpmässigt — växlar mellan de fyra skapade färgpaletterna",
+      "snapshotHint": "Spara en PNG-bildruta från arbetsytan",
+      "whatIsThis": "Vad är det här?"
+    },
+    "information": {
+      "header": "Vackra bilder. Omedelbar stämning.",
+      "paragraphs": [
+        "Förtrollaren är en kostnadsfri, lätt visualiserare från Ethereal Artifacts, skapad för att ge lite stämning där du än behöver den.",
+        "Öppna den i en webbläsare, anslut den till en projektor eller kör den på en Raspberry Pi. Använd den hemma, på en fest, i ett lager eller någonstans dit den kanske inte var tänkt att hamna.",
+        "Välj ett element, låt bilderna växla automatiskt eller prova inställningarna."
+      ],
+      "dedicationBefore": "Till alla som hjälper andra att ",
+      "dedicationEmphasis": "känna",
+      "dedicationAfter": ".\nVi ses på rave."
+    }
+  },
+  "vi": {
+    "controls": {
+      "title": "Người phù phép",
+      "credit": "bởi Ethereal Artifacts © 2026",
+      "license": "Giấy phép",
+      "element": "Nguyên tố",
+      "all": "Ngẫu nhiên",
+      "auto": "Tự động",
+      "earth": "Đất",
+      "fire": "Lửa",
+      "water": "Nước",
+      "air": "Khí",
+      "spell": "Echo of",
+      "begin": "Thi triển phép thuật",
+      "end": "Kết thúc",
+      "pause": "Tạm dừng",
+      "resume": "Tiếp tục",
+      "restart": "Bắt đầu lại",
+      "snapshot": "Ảnh chụp",
+      "fullscreen": "Toàn màn hình",
+      "exitFullscreen": "Thoát toàn màn hình",
+      "return": "Quay lại",
+      "back": "Quay lại trang web",
+      "included": "Phần mềm mã nguồn mở đi kèm:",
+      "allHint": "Ngẫu nhiên — luân phiên giữa bốn bảng màu được thiết kế sẵn",
+      "snapshotHint": "Lưu một khung hình PNG từ canvas",
+      "whatIsThis": "Đây là gì?"
+    },
+    "information": {
+      "header": "Hình ảnh tuyệt đẹp. Không khí tức thì.",
+      "paragraphs": [
+        "Người phù phép là công cụ trực quan hóa miễn phí, gọn nhẹ của Ethereal Artifacts, được tạo ra để mang đến chút không khí ở bất cứ nơi nào bạn cần.",
+        "Mở trong trình duyệt, kết nối với máy chiếu hoặc chạy trên Raspberry Pi. Hãy dùng ở nhà, trong bữa tiệc, nhà kho hay nơi nào đó có lẽ vốn không dành cho nó.",
+        "Chọn một nguyên tố, để hình ảnh tự luân phiên hoặc thử điều chỉnh các cài đặt."
+      ],
+      "dedicationBefore": "Dành tặng những người giúp người khác ",
+      "dedicationEmphasis": "cảm nhận",
+      "dedicationAfter": ".\nHẹn gặp ở Rave."
+    }
+  }
+}

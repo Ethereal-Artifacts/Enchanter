@@ -1,0 +1,10 @@
+{
+  "name": "@ethereal/enchanter-core",
+  "version": "0.9.0-beta",
+  "type": "module",
+  "license": "Hippocratic-3.0-core",
+  "exports": {
+    ".": "./src/index.ts",
+    "./*": "./src/*.ts"
+  }
+}

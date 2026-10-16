@@ -1,0 +1,52 @@
+{
+  "controls": {
+    "title": "Enchanter",
+    "credit": "by Ethereal Artifacts © 2026",
+    "license": "License",
+    "element": "Element",
+    "all": "Random",
+    "auto": "Auto",
+    "earth": "Earth",
+    "fire": "Fire",
+    "water": "Water",
+    "air": "Air",
+    "spell": "Echo of",
+    "begin": "Cast enchantment",
+    "end": "End",
+    "pause": "Pause",
+    "resume": "Resume",
+    "restart": "Restart",
+    "snapshot": "Snapshot",
+    "fullscreen": "Fullscreen",
+    "exitFullscreen": "Exit Fullscreen",
+    "return": "Return",
+    "back": "Back to Site",
+    "included": "Open-source software included on:",
+    "allHint": "Random — switches between the four authored palettes",
+    "snapshotHint": "Save one PNG frame from the canvas",
+    "whatIsThis": "What is this?"
+  },
+  "information": {
+    "header": "Beautiful visuals. Instant atmosphere.",
+    "paragraphs": [
+      "Enchanter is a free, lightweight visualizer by Ethereal Artifacts, made to bring a little atmosphere wherever you need it.",
+      "Open it in a browser, connect it to a projector, or run it on a Raspberry Pi. Use it at home, at a party, in a warehouse, or somewhere it probably wasn’t meant to go.",
+      "Choose an element, let the visuals cycle on their own, or play with the settings."
+    ],
+    "dedicationBefore": "Dedicated to those who make others ",
+    "dedicationEmphasis": "feel",
+    "dedicationAfter": ".\nSee you in the Rave."
+  },
+  "legal": {
+    "title": "Enchanter — Hippocratic License 3.0",
+    "scope": "This Hippocratic License 3.0 applies to the Enchanter software. It does not apply to the Ethereal Artifacts storefront, branding, product content, or other works. Third-party assets retain their own licenses.",
+    "description": "Enchanter is available under the Hippocratic License 3.0, with ethical-use conditions. This license applies to Enchanter only; third-party assets retain their own licenses.",
+    "identifier": "Hippocratic-3.0-core",
+    "source": "https://firstdonoharm.dev/version/3/0/core.txt",
+    "agreement": "By using this software, you agree to not use Enchanter at events, exhibitions, gatherings, or raves that promote or tolerate discrimination.",
+    "discriminationQuote": "Discriminate on the basis of sex, gender, sexual orientation, race, ethnicity, nationality, religion, caste, age, medical disability or impairment, and/or any other like circumstances",
+    "discriminationCitation": "See Hippocratic License 3.0, Section 3.1.5.",
+    "eventPolicy": "Enchanter must not be used in spaces that promote or tolerate racism, sexism, homophobia, transphobia, ableism, or discrimination based on ethnicity, nationality, religion, caste, or age.",
+    "ethos": "PLURR — Peace, Love, Unity, Respect, Responsibility."
+  }
+}

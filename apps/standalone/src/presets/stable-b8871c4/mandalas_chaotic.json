@@ -1,0 +1,109 @@
+{
+  "canvasWidth": 1866,
+  "canvasHeight": 1042,
+  "cellSize": 8,
+  "minCellSize": 1,
+  "maxCellSize": 30,
+  "tickRate": 24,
+  "minTickRate": 2,
+  "maxTickRate": 200,
+  "decay": {
+    "baseDelay": 120,
+    "normalStep": 0.025,
+    "randomRange": 25,
+    "slowdownFactor": 0.06,
+    "minDecayChance": 0.003,
+    "baseDecayChance": 0.35,
+    "edgeBreakChance": 0.3,
+    "voidDropChance": 0.12
+  },
+  "creepingFig": {
+    "baseActivations": 5,
+    "neighborRadius": 3,
+    "branchAge": 6,
+    "directionFollowChance": 0.63,
+    "maxActiveCells": 12000,
+    "expansionBiasFactor": 0.25,
+    "bounceReflectionFactor": 1.1
+  },
+  "burstMechanics": {
+    "pulseChance": 0.15,
+    "burstSize": 35,
+    "burstDecayMultiplier": 1.6
+  },
+  "activeCellDensity": 0.5,
+  "equilibrium": {
+    "maxExpansionScale": 8,
+    "maxDecayScale": 5,
+    "minExpansionScale": 0.4,
+    "minDecayScale": 0.2,
+    "expansionResponse": 1.3,
+    "decayResponse": 1.2
+  },
+  "binaryTransitions": {
+    "enabled": true,
+    "threshold": 0.35
+  },
+  "colorSettings": {
+    "baseH": 358.58,
+    "baseS": 100,
+    "baseB": 100,
+    "scheme": "analogous-complementary"
+  },
+  "RANDOM_START": true,
+  "colorScheme": "analogous-complementary",
+  "macros": [
+    {
+      "currentBaseline": 0,
+      "baseline": 0,
+      "targets": [
+        {
+          "path": "activeCellDensity",
+          "baseline": 0.88
+        }
+      ],
+      "useCurrentBaseline": false,
+      "trigFunc": "cos",
+      "periodMultiplier": 1.0,
+      "lfoPeriod": 200,
+      "dampener": 0.24,
+      "enabled": true
+    },
+    {
+      "currentBaseline": 0,
+      "baseline": 0,
+      "targets": [
+        {
+          "path": "colorSettings.baseH",
+          "baseline": 85.7
+        }
+      ],
+      "useCurrentBaseline": false,
+      "trigFunc": "cos",
+      "periodMultiplier": 0.25,
+      "lfoPeriod": 200,
+      "dampener": 1,
+      "enabled": true
+    },
+    {
+      "currentBaseline": 0,
+      "baseline": 0,
+      "targets": [
+        {
+          "path": "decay.baseDecayChance",
+          "baseline": 162.86
+        },
+        {
+          "path": "binaryTransitions.threshold",
+          "baseline": 0.74
+        }
+      ],
+      "useCurrentBaseline": false,
+      "trigFunc": "cos",
+      "periodMultiplier": 1.0,
+      "lfoPeriod": 200,
+      "dampener": 0.64,
+      "enabled": true
+    }
+  ]
+}

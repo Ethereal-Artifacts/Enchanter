@@ -1,0 +1,16 @@
+{
+  "name": "@ethereal/enchanter-standalone",
+  "version": "0.9.0-beta",
+  "private": true,
+  "type": "module",
+  "license": "Hippocratic-3.0-core",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "dependencies": {
+    "@ethereal/enchanter-core": "0.9.0-beta"
+  },
+  "devDependencies": {
+    "esbuild": "0.25.12"
+  }
+}
